@@ -1,288 +1,1728 @@
-            ### 1 
-Title     : Правило Коми 
-Age       : 2020-... 
-Country   : США 
-Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/8/25/xf32793dff767rk90a44p.png 
-Link      : https://rezka.ag/series/drama/35439-pravilo-komi-2020.html 
-
-            ### 2 
-Title     : Розмари и Тайм 
-Age       : 2003-2006 
-Country   : Великобритания 
-Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/29/y121f15ecfd8chq21h19l.png 
-Link      : https://rezka.ag/series/drama/35836-rozmari-i-taym-2003.html 
-
-            ### 3 
-Title     : Гвен Джонс — ученица Мерлина 
-Age       : 2002 
-Country   : Австралия 
-Genre     : Фэнтези 
-Logo      : https://rezka.ag/i/2020/9/29/t5a0e0e670a90ai33s61d.png 
-Link      : https://rezka.ag/series/fantasy/35835-gven-dzhons-uchenica-merlina-2002.html 
-
-            ### 4 
-Title     : Карлсон вернулся 
-Age       : 1970 
-Country   : СССР 
-Genre     : Комедии 
-Logo      : https://rezka.ag/i/2020/9/29/n35ec34a96496tm41d78b.png 
-Link      : https://rezka.ag/cartoons/comedy/35834-karlson-vernulsya-1970.html 
-
-            ### 5 
-Title     : Доктор Вера 
-Age       : 2020 
-Country   : Украина 
-Genre     : Мелодрамы 
-Logo      : https://rezka.ag/i/2020/9/29/r305bb2d9743bvp35r72b.png 
-Link      : https://rezka.ag/series/melodrama/35833-doktor-vera-2020.html 
-
-            ### 6 
+            films | page_1 | 1/36 
 Title     : Миссия 
 Age       : 1999 
 Country   : Гонконг 
 Genre     : Боевики 
-Logo      : https://rezka.ag/i/2020/9/29/u4c7a38710bb9bn52l35c.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/29/u4c7a38710bb9bn52l35c.png 
 Link      : https://rezka.ag/films/action/35832-missiya-1999.html 
 
-            ### 7 
-Title     : Бегство Логана 
-Age       : 1977-1978 
-Country   : США 
-Genre     : Фантастика 
-Logo      : https://rezka.ag/i/2020/9/29/y0d81fc59a2b6sc59t36q.png 
-Link      : https://rezka.ag/series/fiction/35831-begstvo-logana-1977.html 
-
-            ### 8 
-Title     : Джордж Карлин: Что я делаю в Нью-Джерси? 
-Age       : 1988 
-Country   : США 
-Genre     : Юмористические 
-Logo      : https://rezka.ag/i/2020/9/29/pfaf448a32d29rc35g18e.png 
-Link      : https://rezka.ag/show/humor/35830-dzhordzh-karlin-chto-ya-delayu-v-nyu-dzhersi-1988.html 
-
-            ### 9 
+            films | page_1 | 2/36 
 Title     : Август 
 Age       : 1996 
 Country   : Великобритания 
 Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/29/b998f8693b955dh15z36m.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/29/b998f8693b955dh15z36m.png 
 Link      : https://rezka.ag/films/drama/35829-avgust-1996.html 
 
-            ### 10 
-Title     : Вживую: Джордж Карлин в Фениксе 
-Age       : 1978 
-Country   : США 
-Genre     : Юмористические 
-Logo      : https://rezka.ag/i/2020/9/29/w09494844b493pu48e47b.png 
-Link      : https://rezka.ag/show/humor/35828-vzhivuyu-dzhordzh-karlin-v-fenikse-1978.html 
-
-            ### 11 
+            films | page_1 | 3/36 
 Title     : Заря 
 Age       : 1988 
 Country   : Великобритания 
 Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/28/a347d601bc5ffqb36w63p.jpg 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/28/a347d601bc5ffqb36w63p.jpg 
 Link      : https://rezka.ag/films/drama/35827-zarya-1988.html 
 
-            ### 12 
-Title     : Карлин в Карнеги-холле 
-Age       : 1982 
-Country   : США 
-Genre     : Юмористические 
-Logo      : https://rezka.ag/i/2020/9/28/nbb71a724b630sy51d45b.png 
-Link      : https://rezka.ag/show/humor/35825-karlin-v-karnegi-holle-1982.html 
-
-            ### 13 
+            films | page_1 | 4/36 
 Title     : Флот МакХейла присоединяется к Военно-воздушным силам 
 Age       : 1965 
 Country   : США 
 Genre     : Комедии 
-Logo      : https://rezka.ag/i/2020/9/28/fa2cc4a60fa6cis70f22e.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/28/fa2cc4a60fa6cis70f22e.png 
 Link      : https://rezka.ag/films/comedy/35824-flot-makheyla-prisoedinyaetsya-k-voenno-vozdushnym-silam-1965.html 
 
-            ### 14 
-Title     : Джордж Карлин: Карлин в Кампусе 
-Age       : 1984 
-Country   : США 
-Genre     : Юмористические 
-Logo      : https://rezka.ag/i/2020/9/28/ka218896efddfut52u75e.png 
-Link      : https://rezka.ag/show/humor/35822-dzhordzh-karlin-karlin-v-kampuse-1984.html 
-
-            ### 15 
-Title     : Ты только мой 
-Age       : 2020 
-Country   : Украина 
-Genre     : Мелодрамы 
-Logo      : https://rezka.ag/i/2020/9/28/s760030faed86zu53m43d.png 
-Link      : https://rezka.ag/series/melodrama/35821-ty-tolko-moy-2020.html 
-
-            ### 16 
-Title     : Вживую: Джордж Карлин в УЮК 
-Age       : 1977 
-Country   : США 
-Genre     : Юмористические 
-Logo      : https://rezka.ag/i/2020/9/28/b59fcfbbbcb78qt58d26g.png 
-Link      : https://rezka.ag/show/humor/35820-vzhivuyu-dzhordzh-karlin-v-uyuk-1977.html 
-
-            ### 17 
+            films | page_1 | 5/36 
 Title     : Консольные войны 
 Age       : 2020 
 Country   : США 
 Genre     : Документальные 
-Logo      : https://rezka.ag/i/2020/9/19/d637be470feadyq83m29j.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/19/d637be470feadyq83m29j.png 
 Link      : https://rezka.ag/films/documentary/35732-konsolnye-voyny-2020.html 
 
-            ### 18 
-Title     : Спутники 
-Age       : 2015 
-Country   : Россия 
-Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/28/l93babd3c9f6agm99z71r.png 
-Link      : https://rezka.ag/series/drama/35818-sputniki-2015.html 
-
-            ### 19 
+            films | page_1 | 6/36 
 Title     : Глубокое синее море 3 
 Age       : 2020 
 Country   : США 
 Genre     : Ужасы 
-Logo      : https://rezka.ag/i/2020/9/24/i7f2efed551b0oa94o16v.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/24/i7f2efed551b0oa94o16v.png 
 Link      : https://rezka.ag/films/horror/35784-glubokoe-sinee-more-3-2020.html 
 
-            ### 20 
-Title     : Сникерхеды 
-Age       : 2020 
-Country   : США 
-Genre     : Комедии 
-Logo      : https://rezka.ag/i/2020/9/15/ubc4ef3bb14c4ue48e77j.png 
-Link      : https://rezka.ag/series/comedy/35704-snikerhedy-2020.html 
-
-            ### 21 
-Title     : Вот как я тебя люблю 
-Age       : 2020-... 
-Country   : Канада 
-Genre     : Комедии 
-Logo      : https://rezka.ag/i/2020/9/27/ke4ccff35208aaz61m55y.png 
-Link      : https://rezka.ag/series/comedy/35811-vot-kak-ya-tebya-lyublyu-2020.html 
-
-            ### 22 
+            films | page_1 | 7/36 
 Title     : Смотри как я 
 Age       : 2020 
 Country   : Россия 
 Genre     : Комедии 
-Logo      : https://rezka.ag/i/2020/7/14/r12297906dbd8hn40c59k.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/7/14/r12297906dbd8hn40c59k.png 
 Link      : https://rezka.ag/films/comedy/35057-smotri-kak-ya-2020.html 
 
-            ### 23 
-Title     : Шифр 2 
-Age       : 2020 
-Country   : Россия 
-Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/24/qc2902ac72f87gt13k57t.png 
-Link      : https://rezka.ag/series/drama/35786-shifr-2-2020.html 
-
-            ### 24 
-Title     : Свои 3 
-Age       : 2020 
-Country   : Россия 
-Genre     : Детективы 
-Logo      : https://rezka.ag/i/2020/9/8/u7a217fdd03b4gf71g78w.png 
-Link      : https://rezka.ag/series/detective/35620-svoi-3-2020.html 
-
-            ### 25 
+            films | page_1 | 8/36 
 Title     : Сибил 
 Age       : 1976 
 Country   : США 
 Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/27/p9191a8796ee6gi61l74k.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/27/p9191a8796ee6gi61l74k.png 
 Link      : https://rezka.ag/films/drama/35810-sibil-1976.html 
 
-            ### 26 
+            films | page_1 | 9/36 
 Title     : Керель 
 Age       : 1982 
 Country   : Германия(ФРГ) 
 Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/27/mdfcdecee0b5csx85w29v.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/27/mdfcdecee0b5csx85w29v.png 
 Link      : https://rezka.ag/films/drama/35809-kerel-1982.html 
 
-            ### 27 
+            films | page_1 | 10/36 
 Title     : Заговор против Гитлера 
 Age       : 1990 
 Country   : Югославия 
 Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/27/e705afa1c1ea0oh33m65k.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/27/e705afa1c1ea0oh33m65k.png 
 Link      : https://rezka.ag/films/drama/35808-zagovor-protiv-gitlera-1990.html 
 
-            ### 28 
-Title     : Старшеклассницы 
-Age       : 2006 
-Country   : Япония 
-Genre     : Комедии 
-Logo      : https://rezka.ag/i/2020/9/27/ebc948dce24c4sf10c23f.png 
-Link      : https://rezka.ag/animation/comedy/35807-starsheklassnicy-2006.html 
-
-            ### 29 
+            films | page_1 | 11/36 
 Title     : Горбун из Нотр-Дама 
 Age       : 1982 
 Country   : Великобритания 
 Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/27/m99a60ebeb1f7nw86v84m.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/27/m99a60ebeb1f7nw86v84m.png 
 Link      : https://rezka.ag/films/drama/35805-gorbun-iz-notr-dama-1982.html 
 
-            ### 30 
-Title     : Германия 89 
-Age       : 2020 
-Country   : Германия 
-Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/12/z9e6d79d70c2fxn67l88o.png 
-Link      : https://rezka.ag/series/drama/35664-germaniya-89-2020.html 
-
-            ### 31 
-Title     : Муссолини и я 
-Age       : 1985 
-Country   : Италия 
-Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/26/z1442768add18qi78y67u.png 
-Link      : https://rezka.ag/series/drama/35804-mussolini-i-ya-1985.html 
-
-            ### 32 
+            films | page_1 | 12/36 
 Title     : Кукольный дом 
 Age       : 1973 
 Country   : Великобритания 
 Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/26/ff9cd4875c530mc80o19f.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/26/ff9cd4875c530mc80o19f.png 
 Link      : https://rezka.ag/films/drama/35803-kukolnyy-dom-1973.html 
 
-            ### 33 
+            films | page_1 | 13/36 
 Title     : Короткие встречи 
 Age       : 1967 
 Country   : СССР 
 Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/26/a2404c013128efp78i59l.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/26/a2404c013128efp78i59l.png 
 Link      : https://rezka.ag/films/drama/35802-korotkie-vstrechi-1967.html 
 
-            ### 34 
-Title     : Старые дела 
-Age       : 2006 
-Country   : Россия 
-Genre     : Криминал 
-Logo      : https://rezka.ag/i/2020/9/26/ja3c94506b3bfuh39a19l.png 
-Link      : https://rezka.ag/series/crime/35801-starye-dela-2006.html 
-
-            ### 35 
-Title     : Просто представь, что мы знаем 
-Age       : 2020 
-Country   : Россия 
-Genre     : Драмы 
-Logo      : https://rezka.ag/i/2020/9/4/bb317d66f4a2dhc80h96p.png 
-Link      : https://rezka.ag/series/drama/35553-prosto-predstav-chto-my-znaem-2020.html 
-
-            ### 36 
+            films | page_1 | 14/36 
 Title     : Флот МакХэйла 
 Age       : 1964 
 Country   : США 
 Genre     : Комедии 
-Logo      : https://rezka.ag/i/2020/9/26/k96121290662bum92f90u.png 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/26/k96121290662bum92f90u.png 
 Link      : https://rezka.ag/films/comedy/35800-flot-makheyla-1964.html 
+
+            films | page_1 | 15/36 
+Title     : Марионетка 
+Age       : 2020 
+Country   : Нидерланды 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/17/l31596d375168fw18e89k.png 
+Link      : https://rezka.ag/films/thriller/35716-marionetka-2020.html 
+
+            films | page_1 | 16/36 
+Title     : Тень звезды 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/7/31/f3f5bc7d42edcyn10n81j.png 
+Link      : https://rezka.ag/films/drama/35209-ten-zvezdy-2020.html 
+
+            films | page_1 | 17/36 
+Title     : Элис 
+Age       : 2019 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/23/of4a92b4c6e96hp14a62g.png 
+Link      : https://rezka.ag/films/drama/35782-elis-2019.html 
+
+            films | page_1 | 18/36 
+Title     : Билл и Тед 
+Age       : 2020 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/films/page/1/i/2020/7/23/nc65787af3a0ckb40i53i.png 
+Link      : https://rezka.ag/films/comedy/35118-bill-i-ted-2020.html 
+
+            films | page_1 | 19/36 
+Title     : Мой шпион 
+Age       : 2020 
+Country   : США 
+Genre     : Боевики 
+Logo      : https://rezka.ag/films/page/1/i/2020/2/28/edbb9cd923729er71p64s.png 
+Link      : https://rezka.ag/films/action/33566-moy-shpion-2020.html 
+
+            films | page_1 | 20/36 
+Title     : Встреча с тьмой 
+Age       : 2019 
+Country   : Великобритания 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/17/u4db7cc74e9feta65w49e.png 
+Link      : https://rezka.ag/films/fiction/35717-vstrecha-s-tmoy-2019.html 
+
+            films | page_1 | 21/36 
+Title     : Не входи 
+Age       : 2020 
+Country   : Великобритания 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/films/page/1/i/2020/8/9/a8cea82229274bf85z79x.png 
+Link      : https://rezka.ag/films/thriller/35280-ne-vhodi-2020.html 
+
+            films | page_1 | 22/36 
+Title     : В паутине лжи 
+Age       : 2019 
+Country   : Чили 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/8/l0cbe7dbf6671zs13v73j.png 
+Link      : https://rezka.ag/films/thriller/35625-v-pautine-lzhi-2019.html 
+
+            films | page_1 | 23/36 
+Title     : Энола Холмс 
+Age       : 2020 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/8/20/ka4405c08a650vb72s57r.png 
+Link      : https://rezka.ag/films/drama/35388-enola-holms-2020.html 
+
+            films | page_1 | 24/36 
+Title     : Одна 
+Age       : 2020 
+Country   : США 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/23/wa1afc929a0dbno22a46p.png 
+Link      : https://rezka.ag/films/thriller/35771-odna-2020.html 
+
+            films | page_1 | 25/36 
+Title     : Первая любовь 
+Age       : 2001 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/23/q63cb6c785084kl13m57p.png 
+Link      : https://rezka.ag/films/drama/35776-pervaya-lyubov-2001.html 
+
+            films | page_1 | 26/36 
+Title     : Обратный отсчёт 
+Age       : 2019 
+Country   : Канада 
+Genre     : Боевики 
+Logo      : https://rezka.ag/films/page/1/i/2020/3/1/d5e8becbbd24cjq54b35h.png 
+Link      : https://rezka.ag/films/action/32167-obratnyy-otschet-2019.html 
+
+            films | page_1 | 27/36 
+Title     : Одна / Пропавшая 
+Age       : 2020 
+Country   : США 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/10/m3c43ff7eb9b4ha26s86d.png 
+Link      : https://rezka.ag/films/thriller/35652-odna-2020.html 
+
+            films | page_1 | 28/36 
+Title     : Смена сезонов 
+Age       : 1980 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/23/o2af79174c9fbos61g24i.png 
+Link      : https://rezka.ag/films/drama/35759-smena-sezonov-1980.html 
+
+            films | page_1 | 29/36 
+Title     : Кукольный дом 
+Age       : 1973 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/23/w295bbc05c1f3jm73l19r.png 
+Link      : https://rezka.ag/films/drama/35757-kukolnyy-dom-1973.html 
+
+            films | page_1 | 30/36 
+Title     : Быть или не быть 
+Age       : 2011 
+Country   : Россия 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/22/e6569771134d5qq16d55p.png 
+Link      : https://rezka.ag/films/thriller/35751-byt-ili-ne-byt-2011.html 
+
+            films | page_1 | 31/36 
+Title     : Корова 
+Age       : 2019 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/22/h62104eeee42fzy48u84u.png 
+Link      : https://rezka.ag/films/drama/35749-korova-2019.html 
+
+            films | page_1 | 32/36 
+Title     : Невыученный урок 14/41 
+Age       : 2016 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/21/e696bc203926fbm30h51s.png 
+Link      : https://rezka.ag/films/drama/35747-nevyuchennyy-urok-14-2016.html 
+
+            films | page_1 | 33/36 
+Title     : Кошки против собак 3: Лапы объединяйтесь 
+Age       : 2020 
+Country   : США 
+Genre     : Фэнтези 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/21/y01fcc8ce05abig25x71l.png 
+Link      : https://rezka.ag/films/fantasy/35745-koshki-protiv-sobak-3-lapy-obedinyaytes-2020.html 
+
+            films | page_1 | 34/36 
+Title     : Современная история любви 
+Age       : 2015 
+Country   : Франция 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/9/19/zb67258efc3d4zg14j19r.png 
+Link      : https://rezka.ag/films/drama/35726-sovremennaya-istoriya-lyubvi-2015.html 
+
+            films | page_1 | 35/36 
+Title     : Жесткое убийство / Полное уничтожение 
+Age       : 2020 
+Country   : США 
+Genre     : Боевики 
+Logo      : https://rezka.ag/films/page/1/i/2020/8/8/h0549327f233bst50n81o.png 
+Link      : https://rezka.ag/films/action/35276-zhestkoe-ubiystvo-2020.html 
+
+            films | page_1 | 36/36 
+Title     : Любовь на троих 
+Age       : 2019 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/1/i/2020/7/31/jc00dc097278apg51o95v.png 
+Link      : https://rezka.ag/films/drama/35208-lyubov-na-troih-2019.html 
+
+            films | page_2 | 1/36 
+Title     : История Дэвида Копперфилда 
+Age       : 2019 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/6/25/m5b07122dc786wk48h97g.png 
+Link      : https://rezka.ag/films/drama/34884-istoriya-devida-kopperfilda-2019.html 
+
+            films | page_2 | 2/36 
+Title     : Дьявол всегда здесь 
+Age       : 2020 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/4/r56ab8becc085bf43t64g.png 
+Link      : https://rezka.ag/films/drama/35311-dyavol-vsegda-zdes-2020.html 
+
+            films | page_2 | 3/36 
+Title     : История Аси Клячиной которая любила, да не вышла замуж 
+Age       : 1967 
+Country   : СССР 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/17/eb100512959a6we36a50e.png 
+Link      : https://rezka.ag/films/drama/35710-istoriya-asi-klyachinoy-kotoraya-lyubila-da-ne-vyshla-zamuzh-1967.html 
+
+            films | page_2 | 4/36 
+Title     : Лес 
+Age       : 2015 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/17/mad8e85fded24fb96z61f.png 
+Link      : https://rezka.ag/films/drama/35709-les-2015.html 
+
+            films | page_2 | 5/36 
+Title     : Коммунист 
+Age       : 1957 
+Country   : СССР 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/16/o614f8e7c6155qe72c94f.png 
+Link      : https://rezka.ag/films/drama/35708-kommunist-1957.html 
+
+            films | page_2 | 6/36 
+Title     : Клоуны-убийцы из космоса 
+Age       : 1988 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/6/f5f7ad3252e12jq17t41j.png 
+Link      : https://rezka.ag/films/fiction/35582-klouny-ubiycy-iz-kosmosa-1988.html 
+
+            films | page_2 | 7/36 
+Title     : Обратный рейс 
+Age       : 2019 
+Country   : Великобритания 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/15/e34d82dac8d03io27c88c.png 
+Link      : https://rezka.ag/films/thriller/35701-obratnyy-reys-2019.html 
+
+            films | page_2 | 8/36 
+Title     : Легенда о Брюсе Ли / Брюс Ли - Суперзвезда 
+Age       : 1976 
+Country   : Гонконг 
+Genre     : Боевики 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/15/w155ff112b15cib95y61x.png 
+Link      : https://rezka.ag/films/action/35699-legenda-o-bryuse-li-1976.html 
+
+            films | page_2 | 9/36 
+Title     : Социальная дилемма 
+Age       : 2020 
+Country   : США 
+Genre     : Документальные 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/10/o280ec6b59666zc57n19k.png 
+Link      : https://rezka.ag/films/documentary/35645-socialnaya-dilemma-2020.html 
+
+            films | page_2 | 10/36 
+Title     : Отель Эдельвейс 
+Age       : 2019 
+Country   : Украина 
+Genre     : Комедии 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/14/ie1b2a528d2f6ww89n34d.png 
+Link      : https://rezka.ag/films/comedy/35688-otel-edelveys-2019.html 
+
+            films | page_2 | 11/36 
+Title     : Студенческие каникулы 
+Age       : 1985 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/13/iba5406011a42oq61d38m.png 
+Link      : https://rezka.ag/films/comedy/35683-studencheskie-kanikuly-1985.html 
+
+            films | page_2 | 12/36 
+Title     : Ископаемый 
+Age       : 2012 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/12/l66f812a43e1chl40k34m.png 
+Link      : https://rezka.ag/films/drama/35676-iskopaemyy-2012.html 
+
+            films | page_2 | 13/36 
+Title     : Королева 
+Age       : 2020 
+Country   : Россия 
+Genre     : Комедии 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/12/cf04159754e7asb16b14i.png 
+Link      : https://rezka.ag/films/comedy/35673-koroleva-2020.html 
+
+            films | page_2 | 14/36 
+Title     : Воздушный патруль 
+Age       : 2003 
+Country   : США 
+Genre     : Боевики 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/12/ue7152f0331a8jh62v75o.png 
+Link      : https://rezka.ag/films/action/35663-vozdushnyy-patrul-2003.html 
+
+            films | page_2 | 15/36 
+Title     : История Золушки: Рождественское желание 
+Age       : 2019 
+Country   : США 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/12/h06b773058280ke84e20v.png 
+Link      : https://rezka.ag/films/melodrama/35661-istoriya-zolushki-rozhdestvenskoe-zhelanie-2019.html 
+
+            films | page_2 | 16/36 
+Title     : Красиво жить 
+Age       : 2019 
+Country   : Россия 
+Genre     : Комедии 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/12/je90362065422uf86t23s.png 
+Link      : https://rezka.ag/films/comedy/35660-krasivo-zhit-2019.html 
+
+            films | page_2 | 17/36 
+Title     : Карнавальная ночь 2 
+Age       : 2006 
+Country   : Россия 
+Genre     : Комедии 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/12/i62e0a06b9204cq96q98g.png 
+Link      : https://rezka.ag/films/comedy/35655-karnavalnaya-noch-2-2006.html 
+
+            films | page_2 | 18/36 
+Title     : Запретная зона 
+Age       : 2020 
+Country   : Беларусь 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/films/page/2/i/2020/6/25/d5a3e69f3aed5zt21o12t.png 
+Link      : https://rezka.ag/films/thriller/34888-zapretnaya-zona-2020.html 
+
+            films | page_2 | 19/36 
+Title     : Отряд Фокстрот 
+Age       : 2019 
+Country   : Индонезия 
+Genre     : Боевики 
+Logo      : https://rezka.ag/films/page/2/i/2020/7/3/x39eaa324430dwg43l38s.png 
+Link      : https://rezka.ag/films/action/34953-otryad-fokstrot-2019.html 
+
+            films | page_2 | 20/36 
+Title     : Няня. Королева проклятых 
+Age       : 2020 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/1/pf78e4f5c6060qw97p55m.png 
+Link      : https://rezka.ag/films/comedy/35484-nyanya-koroleva-proklyatyh-2020.html 
+
+            films | page_2 | 21/36 
+Title     : Вечность между нами 
+Age       : 2020 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/7/31/oec0247d88405ck72n94e.png 
+Link      : https://rezka.ag/films/drama/35211-vechnost-mezhdu-nami-2020.html 
+
+            films | page_2 | 22/36 
+Title     : Ночная жизнь 
+Age       : 2020 
+Country   : Германия 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/10/c26411683b3adrs90j90v.png 
+Link      : https://rezka.ag/films/melodrama/35654-nochnaya-zhizn-2020.html 
+
+            films | page_2 | 23/36 
+Title     : #выжить 
+Age       : 2020 
+Country   : КореяЮжная 
+Genre     : Ужасы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/10/lbefe7845394dyc66n42c.png 
+Link      : https://rezka.ag/films/horror/35644-vyzhit-2020.html 
+
+            films | page_2 | 24/36 
+Title     : Поезд в Пусан 2: Полуостров 
+Age       : 2020 
+Country   : КореяЮжная 
+Genre     : Ужасы 
+Logo      : https://rezka.ag/films/page/2/i/2020/7/21/h5d70db23436cfc66y51h.png 
+Link      : https://rezka.ag/films/horror/35106-poezd-v-pusan-2-poluostrov-2020.html 
+
+            films | page_2 | 25/36 
+Title     : Кровавое судно 
+Age       : 2019 
+Country   : Австралия 
+Genre     : Ужасы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/9/fbf92bd1c442cig58e83x.png 
+Link      : https://rezka.ag/films/horror/35634-krovavoe-sudno-2019.html 
+
+            films | page_2 | 26/36 
+Title     : Думаю как всё закончить 
+Age       : 2020 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/8/nfdaacf0522cfoi78j44q.png 
+Link      : https://rezka.ag/films/drama/35279-dumayu-kak-vse-zakonchit-2020.html 
+
+            films | page_2 | 27/36 
+Title     : Земля 
+Age       : 1930 
+Country   : СССР 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/8/s434debf93f95nx69x65v.png 
+Link      : https://rezka.ag/films/drama/35613-zemlya-1930.html 
+
+            films | page_2 | 28/36 
+Title     : Четыре возраста любви 
+Age       : 2008 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/8/na9fc53c97d4coi75l80w.png 
+Link      : https://rezka.ag/films/drama/35612-chetyre-vozrasta-lyubvi-2008.html 
+
+            films | page_2 | 29/36 
+Title     : Дружить по-русски! 
+Age       : 2019 
+Country   : Франция 
+Genre     : Комедии 
+Logo      : https://rezka.ag/films/page/2/i/2020/5/1/r4c29d07220a9ma54b25k.png 
+Link      : https://rezka.ag/films/comedy/34295-druzhit-po-russki-2019.html 
+
+            films | page_2 | 30/36 
+Title     : Любовь между строк 
+Age       : 2019 
+Country   : Германия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/3/20/a20b7e4227bddod92h42x.png 
+Link      : https://rezka.ag/films/drama/33778-lyubov-mezhdu-strok-2019.html 
+
+            films | page_2 | 31/36 
+Title     : Зеркала: Реинкарнация 
+Age       : 2020 
+Country   : США 
+Genre     : Ужасы 
+Logo      : https://rezka.ag/films/page/2/i/2020/4/29/p3de1a885f928im25l25v.png 
+Link      : https://rezka.ag/films/horror/34267-zerkala-reinkarnaciya-2020.html 
+
+            films | page_2 | 32/36 
+Title     : Девушка-воскресенье 
+Age       : 2019 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/7/m909a820f964fjs81v46s.png 
+Link      : https://rezka.ag/films/drama/35609-devushka-voskresene-2019.html 
+
+            films | page_2 | 33/36 
+Title     : Невод 
+Age       : 2017 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/7/j2f045e795728zr40u79q.png 
+Link      : https://rezka.ag/films/drama/35605-nevod-2017.html 
+
+            films | page_2 | 34/36 
+Title     : Гроза 
+Age       : 2019 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/6/u483975e87652ls94n97x.png 
+Link      : https://rezka.ag/films/drama/35591-groza-2019.html 
+
+            films | page_2 | 35/36 
+Title     : Салют-7. История одного подвига 
+Age       : 2017 
+Country   : Россия 
+Genre     : Документальные 
+Logo      : https://rezka.ag/films/page/2/i/2020/9/6/ee8f6917e9f6aek26m97i.png 
+Link      : https://rezka.ag/films/documentary/35580-salyut-7-istoriya-odnogo-podviga-2017.html 
+
+            films | page_2 | 36/36 
+Title     : Видеорегистратор / Оперативная съемка 
+Age       : 2020 
+Country   : США 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/films/page/2/i/2020/7/3/obb8824d34ac1km21s72m.png 
+Link      : https://rezka.ag/films/thriller/34952-videoregistrator-2020.html 
+
+            series | page_1 | 1/36 
+Title     : Правило Коми 
+Age       : 2020-... 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/8/25/xf32793dff767rk90a44p.png 
+Link      : https://rezka.ag/series/drama/35439-pravilo-komi-2020.html 
+
+            series | page_1 | 2/36 
+Title     : Розмари и Тайм 
+Age       : 2003-2006 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/29/y121f15ecfd8chq21h19l.png 
+Link      : https://rezka.ag/series/drama/35836-rozmari-i-taym-2003.html 
+
+            series | page_1 | 3/36 
+Title     : Гвен Джонс — ученица Мерлина 
+Age       : 2002 
+Country   : Австралия 
+Genre     : Фэнтези 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/29/t5a0e0e670a90ai33s61d.png 
+Link      : https://rezka.ag/series/fantasy/35835-gven-dzhons-uchenica-merlina-2002.html 
+
+            series | page_1 | 4/36 
+Title     : Доктор Вера 
+Age       : 2020 
+Country   : Украина 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/29/r305bb2d9743bvp35r72b.png 
+Link      : https://rezka.ag/series/melodrama/35833-doktor-vera-2020.html 
+
+            series | page_1 | 5/36 
+Title     : Бегство Логана 
+Age       : 1977-1978 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/29/y0d81fc59a2b6sc59t36q.png 
+Link      : https://rezka.ag/series/fiction/35831-begstvo-logana-1977.html 
+
+            series | page_1 | 6/36 
+Title     : Ты только мой 
+Age       : 2020 
+Country   : Украина 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/28/s760030faed86zu53m43d.png 
+Link      : https://rezka.ag/series/melodrama/35821-ty-tolko-moy-2020.html 
+
+            series | page_1 | 7/36 
+Title     : Спутники 
+Age       : 2015 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/28/l93babd3c9f6agm99z71r.png 
+Link      : https://rezka.ag/series/drama/35818-sputniki-2015.html 
+
+            series | page_1 | 8/36 
+Title     : Сникерхеды 
+Age       : 2020 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/15/ubc4ef3bb14c4ue48e77j.png 
+Link      : https://rezka.ag/series/comedy/35704-snikerhedy-2020.html 
+
+            series | page_1 | 9/36 
+Title     : Вот как я тебя люблю 
+Age       : 2020-... 
+Country   : Канада 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/27/ke4ccff35208aaz61m55y.png 
+Link      : https://rezka.ag/series/comedy/35811-vot-kak-ya-tebya-lyublyu-2020.html 
+
+            series | page_1 | 10/36 
+Title     : Шифр 2 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/24/qc2902ac72f87gt13k57t.png 
+Link      : https://rezka.ag/series/drama/35786-shifr-2-2020.html 
+
+            series | page_1 | 11/36 
+Title     : Свои 3 
+Age       : 2020 
+Country   : Россия 
+Genre     : Детективы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/8/u7a217fdd03b4gf71g78w.png 
+Link      : https://rezka.ag/series/detective/35620-svoi-3-2020.html 
+
+            series | page_1 | 12/36 
+Title     : Германия 89 
+Age       : 2020 
+Country   : Германия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/12/z9e6d79d70c2fxn67l88o.png 
+Link      : https://rezka.ag/series/drama/35664-germaniya-89-2020.html 
+
+            series | page_1 | 13/36 
+Title     : Муссолини и я 
+Age       : 1985 
+Country   : Италия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/26/z1442768add18qi78y67u.png 
+Link      : https://rezka.ag/series/drama/35804-mussolini-i-ya-1985.html 
+
+            series | page_1 | 14/36 
+Title     : Старые дела 
+Age       : 2006 
+Country   : Россия 
+Genre     : Криминал 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/26/ja3c94506b3bfuh39a19l.png 
+Link      : https://rezka.ag/series/crime/35801-starye-dela-2006.html 
+
+            series | page_1 | 15/36 
+Title     : Просто представь что мы знаем 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/4/bb317d66f4a2dhc80h96p.png 
+Link      : https://rezka.ag/series/drama/35553-prosto-predstav-chto-my-znaem-2020.html 
+
+            series | page_1 | 16/36 
+Title     : Утопия 
+Age       : 2020-... 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/series/page/1/i/2020/8/20/r56be09740dffcj18n86k.png 
+Link      : https://rezka.ag/series/fiction/35386-utopiya-2020.html 
+
+            series | page_1 | 17/36 
+Title     : Отражение радуги 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/25/r40f95fb065ecik87g83b.png 
+Link      : https://rezka.ag/series/drama/35792-otrazhenie-radugi-2020.html 
+
+            series | page_1 | 18/36 
+Title     : Училки в законе 
+Age       : 2020 
+Country   : Россия 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/25/u9bec8bf19b6dwc75w93q.png 
+Link      : https://rezka.ag/series/comedy/35790-uchilki-v-zakone-2020.html 
+
+            series | page_1 | 19/36 
+Title     : Южный ветер. Возвращение 
+Age       : 2020 
+Country   : Сербия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/6/b64a79b0ad9bbmm38y92g.png 
+Link      : https://rezka.ag/series/drama/35596-yuzhnyy-veter-vozvraschenie-2020.html 
+
+            series | page_1 | 20/36 
+Title     : Хрустальная мечта 
+Age       : 2020 
+Country   : Украина 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/20/id4fd0f1a6a2bdr26e29k.png 
+Link      : https://rezka.ag/series/melodrama/35738-hrustalnaya-mechta-2020.html 
+
+            series | page_1 | 21/36 
+Title     : Дневник психопата 
+Age       : 2019-2020 
+Country   : КореяЮжная 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/23/aff61a813c111sr89g30z.png 
+Link      : https://rezka.ag/series/thriller/35780-dnevnik-psihopata-2019.html 
+
+            series | page_1 | 22/36 
+Title     : Презумпция невиновности 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/23/fa80df3f745f3zx34h85k.png 
+Link      : https://rezka.ag/series/drama/35779-prezumpciya-nevinovnosti-2020.html 
+
+            series | page_1 | 23/36 
+Title     : Маленькие совпадения 
+Age       : 2018 
+Country   : Испания 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/23/f167661b9fff2mb50c72v.png 
+Link      : https://rezka.ag/series/comedy/35778-malenkie-sovpadeniya-2018.html 
+
+            series | page_1 | 24/36 
+Title     : Хрустальная ловушка 
+Age       : 2020 
+Country   : Россия 
+Genre     : Детективы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/23/q352a815d5e2atq88s67u.png 
+Link      : https://rezka.ag/series/detective/35777-hrustalnaya-lovushka-2020.html 
+
+            series | page_1 | 25/36 
+Title     : Лихач 
+Age       : 2020 
+Country   : Россия 
+Genre     : Детективы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/23/w0ed74b2a6ae5bu81r98s.png 
+Link      : https://rezka.ag/series/detective/35774-lihach-2020.html 
+
+            series | page_1 | 26/36 
+Title     : Шоу про любовь 
+Age       : 2020 
+Country   : Россия 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/23/u01afc14a22b6gn38c80a.png 
+Link      : https://rezka.ag/series/melodrama/35772-shou-pro-lyubov-2020.html 
+
+            series | page_1 | 27/36 
+Title     : На ножах 
+Age       : 1998 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/23/i3c8bcb4d2234vy58i80j.png 
+Link      : https://rezka.ag/series/drama/35781-na-nozhah-1998.html 
+
+            series | page_1 | 28/36 
+Title     : Неприлично богатые 
+Age       : 2020 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/11/g22a87943b085ez15a23k.png 
+Link      : https://rezka.ag/series/drama/35638-neprilichno-bogatye-2020.html 
+
+            series | page_1 | 29/36 
+Title     : Мы те кто мы есть 
+Age       : 2020 
+Country   : Италия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/4/rccb89a29f05caa72h24a.png 
+Link      : https://rezka.ag/series/drama/35552-my-te-kto-my-est-2020.html 
+
+            series | page_1 | 30/36 
+Title     : У чёрта на куличках 
+Age       : 2013-2016 
+Country   : Великобритания 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/23/q2df15f49fb5fwj87m59w.png 
+Link      : https://rezka.ag/series/comedy/35761-u-cherta-na-kulichkah-2013.html 
+
+            series | page_1 | 31/36 
+Title     : Дамы шутят по-черному 
+Age       : 2019 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/22/fa3544d575a62aa46h37a.png 
+Link      : https://rezka.ag/series/comedy/35755-damy-shutyat-po-chernomu-2019.html 
+
+            series | page_1 | 32/36 
+Title     : Кокфилды 
+Age       : 2019 
+Country   : Великобритания 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/22/k90cc84bf2e33oy22x59w.png 
+Link      : https://rezka.ag/series/comedy/35754-kokfildy-2019.html 
+
+            series | page_1 | 33/36 
+Title     : Запасной игрок 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/22/v437c2c79b1ecuw92b81i.png 
+Link      : https://rezka.ag/series/drama/35753-zapasnoy-igrok-2020.html 
+
+            series | page_1 | 34/36 
+Title     : Всё ещё открыто круглосуточно 
+Age       : 2013 
+Country   : Великобритания 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/22/p83d55c393979sf50g84z.png 
+Link      : https://rezka.ag/series/comedy/35752-vse-esche-otkryto-kruglosutochno-2013.html 
+
+            series | page_1 | 35/36 
+Title     : Последний день войны 
+Age       : 2020 
+Country   : Украина 
+Genre     : Военные 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/22/z6506e77412e8ns71t11i.png 
+Link      : https://rezka.ag/series/military/35750-posledniy-den-voyny-2020.html 
+
+            series | page_1 | 36/36 
+Title     : Морозов 
+Age       : 2008 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/1/i/2020/9/21/b890ee3fc1079rr58u39n.png 
+Link      : https://rezka.ag/series/drama/35748-morozov-2008.html 
+
+            series | page_2 | 1/36 
+Title     : Жаркий лед 
+Age       : 2009 
+Country   : Россия 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/21/be84730c717abnz59e88n.png 
+Link      : https://rezka.ag/series/melodrama/35746-zharkiy-led-2009.html 
+
+            series | page_2 | 2/36 
+Title     : Мышеловка для кота 
+Age       : 2020 
+Country   : Украина 
+Genre     : Детективы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/20/q17e7f6b0eec9aw72m59d.png 
+Link      : https://rezka.ag/series/detective/35744-myshelovka-dlya-kota-2020.html 
+
+            series | page_2 | 3/36 
+Title     : Алёша 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/20/df543dbc13de3wb71q81y.png 
+Link      : https://rezka.ag/series/drama/35743-alesha-2020.html 
+
+            series | page_2 | 4/36 
+Title     : Подари мне счастье 
+Age       : 2020 
+Country   : Украина 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/20/c0c2511cd0fb6wz89i40u.png 
+Link      : https://rezka.ag/series/melodrama/35740-podari-mne-schaste-2020.html 
+
+            series | page_2 | 5/36 
+Title     : Сестра Рэтчед 
+Age       : 2020-... 
+Country   : США 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/series/page/2/i/2020/8/6/l6ad74d890232zq30l37b.png 
+Link      : https://rezka.ag/series/thriller/35265-sestra-retched-2020.html 
+
+            series | page_2 | 6/36 
+Title     : Исчезающие следы 
+Age       : 2020 
+Country   : Украина 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/19/s8fbbe7649893py32v85l.png 
+Link      : https://rezka.ag/series/melodrama/35727-ischezayuschie-sledy-2020.html 
+
+            series | page_2 | 7/36 
+Title     : Пожарная служба Такомы 
+Age       : 2019 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/19/fd2f92a0d3f74gl98o50x.png 
+Link      : https://rezka.ag/series/comedy/35724-pozharnaya-sluzhba-takomy-2019.html 
+
+            series | page_2 | 8/36 
+Title     : Самый разыскиваемый в мире 
+Age       : 2020 
+Country   : США 
+Genre     : Документальные 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/18/bb908c36d7658ii31e24l.png 
+Link      : https://rezka.ag/series/documentary/35723-samyy-razyskivaemyy-v-mire-2020.html 
+
+            series | page_2 | 9/36 
+Title     : Успеть все исправить 
+Age       : 2020 
+Country   : Украина 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/19/re79730968d27bt16x81a.png 
+Link      : https://rezka.ag/series/melodrama/35725-uspet-vse-ispravit-2020.html 
+
+            series | page_2 | 10/36 
+Title     : Клятва 
+Age       : 2020 
+Country   : США 
+Genre     : Документальные 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/16/f8627b63a5b02xz12w45e.png 
+Link      : https://rezka.ag/series/documentary/35707-klyatva-2020.html 
+
+            series | page_2 | 11/36 
+Title     : Сибирь 
+Age       : 2013 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/18/r9cef5b551584fc46w93p.png 
+Link      : https://rezka.ag/series/adventures/35719-sibir-2013.html 
+
+            series | page_2 | 12/36 
+Title     : В ловушке 
+Age       : 2020 
+Country   : Индия 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/17/ifca8ad3e0fd5hp35c76l.png 
+Link      : https://rezka.ag/series/thriller/35711-v-lovushke-2020.html 
+
+            series | page_2 | 13/36 
+Title     : Третий день 
+Age       : 2020 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/3/be149bcbf41adyl54x32p.png 
+Link      : https://rezka.ag/series/drama/34439-tretiy-den-2020.html 
+
+            series | page_2 | 14/36 
+Title     : Дес 
+Age       : 2020 
+Country   : Великобритания 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/17/j3806c66e9c01nl59l68f.png 
+Link      : https://rezka.ag/series/thriller/35690-des-2020.html 
+
+            series | page_2 | 15/36 
+Title     : Софи. Жизнь с чистого листа 
+Age       : 2017 
+Country   : Нидерланды 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/15/r8fde2bbc40b2kr78c22b.png 
+Link      : https://rezka.ag/series/comedy/35702-sofi-zhizn-s-chistogo-lista-2017.html 
+
+            series | page_2 | 16/36 
+Title     : Журавль в небе 
+Age       : 2020 
+Country   : Россия 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/15/sa9a652bb72ddvy82o55f.png 
+Link      : https://rezka.ag/series/melodrama/35697-zhuravl-v-nebe-2020.html 
+
+            series | page_2 | 17/36 
+Title     : Зона дискомфорта 
+Age       : 2020 
+Country   : Россия 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/15/v6b5552b3b281mf41v41b.png 
+Link      : https://rezka.ag/series/comedy/35696-zona-diskomforta-2020.html 
+
+            series | page_2 | 18/36 
+Title     : Скорая помощь 2 
+Age       : 2019 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/15/r9390721b9f3cie54o46i.png 
+Link      : https://rezka.ag/series/drama/35695-skoraya-pomosch-2-2019.html 
+
+            series | page_2 | 19/36 
+Title     : Андреевский флаг 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/14/iadc9fdd8d07fqz25z54v.png 
+Link      : https://rezka.ag/series/drama/35687-andreevskiy-flag-2020.html 
+
+            series | page_2 | 20/36 
+Title     : Наказание без преступления 
+Age       : 2020 
+Country   : Россия 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/20/nbdb5f0b392ddza37q28i.jpg 
+Link      : https://rezka.ag/series/melodrama/35741-nakazanie-bez-prestupleniya-2020.html 
+
+            series | page_2 | 21/36 
+Title     : Отблески 
+Age       : 2010 
+Country   : Россия 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/13/p745e163bbbf6mo86g41x.png 
+Link      : https://rezka.ag/series/thriller/35686-otbleski-2010.html 
+
+            series | page_2 | 22/36 
+Title     : Тонкие материи 
+Age       : 2020 
+Country   : Россия 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/13/r191e086bd0edfh10w14v.png 
+Link      : https://rezka.ag/series/melodrama/35681-tonkie-materii-2020.html 
+
+            series | page_2 | 23/36 
+Title     : Записки отельера #Гельвеция 
+Age       : 2020 
+Country   : Россия 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/13/l161f7b004f2fgh71d29l.png 
+Link      : https://rezka.ag/series/comedy/35678-zapiski-otelera-gelveciya-2020.html 
+
+            series | page_2 | 24/36 
+Title     : Яркие краски осени 
+Age       : 2020 
+Country   : Россия 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/12/ib6d16ade75e0ar45a78t.png 
+Link      : https://rezka.ag/series/melodrama/35674-yarkie-kraski-oseni-2020.html 
+
+            series | page_2 | 25/36 
+Title     : Герцогиня 
+Age       : 2020 
+Country   : Великобритания 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/6/wb0c90afe6e13pt33m28c.png 
+Link      : https://rezka.ag/series/comedy/35595-gercoginya-2020.html 
+
+            series | page_2 | 26/36 
+Title     : #СидЯдома 
+Age       : 2020 
+Country   : Россия 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/12/n309622ccc187wf35w96b.png 
+Link      : https://rezka.ag/series/comedy/35662-sidyadoma-2020.html 
+
+            series | page_2 | 27/36 
+Title     : Под прицелом 
+Age       : 2013 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/12/id6209aaedeb1cz87k52b.png 
+Link      : https://rezka.ag/series/drama/35659-pod-pricelom-2013.html 
+
+            series | page_2 | 28/36 
+Title     : Танкист 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/12/e25da62006c9egp24a82d.png 
+Link      : https://rezka.ag/series/drama/35658-tankist-2020.html 
+
+            series | page_2 | 29/36 
+Title     : Платина 2 
+Age       : 2009 
+Country   : Россия 
+Genre     : Боевики 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/12/f4121d5b15522gt99y79x.png 
+Link      : https://rezka.ag/series/action/35656-platina-2-2009.html 
+
+            series | page_2 | 30/36 
+Title     : Проснувшийся / Прозревший 
+Age       : 2020 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/6/n553b3d06a4d1yf36b80f.png 
+Link      : https://rezka.ag/series/comedy/35577-prosnuvshiysya-2020.html 
+
+            series | page_2 | 31/36 
+Title     : Дорога домой 
+Age       : 2020 
+Country   : Россия 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/20/k76487c7a607dlc10m23t.jpg 
+Link      : https://rezka.ag/series/melodrama/35742-doroga-domoy-2020.html 
+
+            series | page_2 | 32/36 
+Title     : Власть в ночном городе. Книга вторая: Призрак 
+Age       : 2020 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/6/n9355c0a48473ky49a40v.png 
+Link      : https://rezka.ag/series/drama/35576-vlast-v-nochnom-gorode-kniga-vtoraya-prizrak-2020.html 
+
+            series | page_2 | 33/36 
+Title     : Робокоп / Робот-полицейский 
+Age       : 1994 
+Country   : Канада 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/8/sf52d800aa0afhj48n25d.png 
+Link      : https://rezka.ag/series/fiction/35619-robokop-1994.html 
+
+            series | page_2 | 34/36 
+Title     : Смерть в объективе 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/8/f938951afe28bge95v82o.png 
+Link      : https://rezka.ag/series/drama/35618-smert-v-obektive-2020.html 
+
+            series | page_2 | 35/36 
+Title     : Печатная машинка 
+Age       : 2019 
+Country   : Индия 
+Genre     : Триллеры 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/8/pfe6c82051a14st24r55c.png 
+Link      : https://rezka.ag/series/thriller/35617-pechatnaya-mashinka-2019.html 
+
+            series | page_2 | 36/36 
+Title     : Проспект обороны 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/series/page/2/i/2020/9/8/vf3c89f8af6bbdb27e62q.png 
+Link      : https://rezka.ag/series/drama/35615-prospekt-oborony-2020.html 
+
+            cartoons | page_1 | 1/36 
+Title     : Карлсон вернулся 
+Age       : 1970 
+Country   : СССР 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/9/29/n35ec34a96496tm41d78b.png 
+Link      : https://rezka.ag/cartoons/comedy/35834-karlson-vernulsya-1970.html 
+
+            cartoons | page_1 | 2/36 
+Title     : Смертельная битва: Путешествие начинается 
+Age       : 1995 
+Country   : США 
+Genre     : Боевики 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/9/25/d6f1de5a857dbmc52e85p.png 
+Link      : https://rezka.ag/cartoons/action/35791-smertelnaya-bitva-puteshestvie-nachinaetsya-1995.html 
+
+            cartoons | page_1 | 3/36 
+Title     : Финес и Ферб: Кэндис против Вселенной 
+Age       : 2020 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/9/25/b78b0759358e5it86t92h.png 
+Link      : https://rezka.ag/cartoons/adventures/35788-fines-i-ferb-kendis-protiv-vselennoy-2020.html 
+
+            cartoons | page_1 | 4/36 
+Title     : Мир Юрского периода: Лагерь Мелового периода 
+Age       : 2020 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/9/15/v9bae49fc7909qj44y46l.png 
+Link      : https://rezka.ag/cartoons/adventures/35706-mir-yurskogo-perioda-lager-melovogo-perioda-2020.html 
+
+            cartoons | page_1 | 5/36 
+Title     : Куриный забег 
+Age       : 2020 
+Country   : Норвегия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/11/k1c98e460ca51fk49w61v.png 
+Link      : https://rezka.ag/cartoons/adventures/35035-kurinyy-zabeg-2020.html 
+
+            cartoons | page_1 | 6/36 
+Title     : Ни пуха ни пера 
+Age       : 2015 
+Country   : Россия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/9/18/dd674527c1614vo35e20n.png 
+Link      : https://rezka.ag/cartoons/adventures/35722-ni-puha-ni-pera-2015.html 
+
+            cartoons | page_1 | 7/36 
+Title     : Принцесса Лебедь: Королевская свадьба 
+Age       : 2020 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/9/14/h076282a2f58fzj73c14w.png 
+Link      : https://rezka.ag/cartoons/adventures/35689-princessa-lebed-korolevskaya-svadba-2020.html 
+
+            cartoons | page_1 | 8/36 
+Title     : Кокоша — маленький дракон: Приключения в джунглях 
+Age       : 2019 
+Country   : Германия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/9/5/j2760e0dc33c4sk38s13x.png 
+Link      : https://rezka.ag/cartoons/adventures/35563-kokosha-malenkiy-drakon-priklyucheniya-v-dzhunglyah-2019.html 
+
+            cartoons | page_1 | 9/36 
+Title     : Школа Вэйсайд 
+Age       : 2005-2008 
+Country   : Канада 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/9/4/g892989cb0574ij13m40u.png 
+Link      : https://rezka.ag/cartoons/comedy/35550-shkola-veysayd-2005.html 
+
+            cartoons | page_1 | 10/36 
+Title     : 100% Волк 
+Age       : 2020 
+Country   : Австралия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/18/ic6c98796854aro62s93u.png 
+Link      : https://rezka.ag/cartoons/adventures/35076-100-volk-2020.html 
+
+            cartoons | page_1 | 11/36 
+Title     : Мультфильмы Луни Тюнз / Веселые мелодии: Мультфильмы 
+Age       : 2019 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/29/n69494dff9accrn45t56v.png 
+Link      : https://rezka.ag/cartoons/comedy/35463-veselye-melodii-multfilmy-2019.html 
+
+            cartoons | page_1 | 12/36 
+Title     : Восход Marvel: Операция Шури 
+Age       : 2019 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/27/c837c9259af3cef96v46t.png 
+Link      : https://rezka.ag/cartoons/adventures/35447-voshod-marvel-operaciya-shuri-2019.html 
+
+            cartoons | page_1 | 13/36 
+Title     : Супермен: Человек завтрашнего дня 
+Age       : 2020 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/26/mc46a2dbe9c95sm47m50t.png 
+Link      : https://rezka.ag/cartoons/fiction/35444-supermen-chelovek-zavtrashnego-dnya-2020.html 
+
+            cartoons | page_1 | 14/36 
+Title     : Инопланетное ТВ / Внеземное ТВ 
+Age       : 2020 
+Country   : Канада 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/22/s47c85a12ae3bxw53u29j.png 
+Link      : https://rezka.ag/cartoons/comedy/35407-inoplanetnoe-tv-2020.html 
+
+            cartoons | page_1 | 15/36 
+Title     : Данк или сквозняк? 
+Age       : 2020-... 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/21/i5b961c581769mh21q56x.png 
+Link      : https://rezka.ag/cartoons/comedy/35336-dank-ili-skvoznyak-2020.html 
+
+            cartoons | page_1 | 16/36 
+Title     : Дунканвилль 
+Age       : 2020-... 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/21/sbc6c4745818cha82l16j.png 
+Link      : https://rezka.ag/cartoons/comedy/35398-dunkanvill-2020.html 
+
+            cartoons | page_1 | 17/36 
+Title     : Удивительные мифы и легенды 
+Age       : 1999-2000 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/18/kb6431c474e36iv32t96q.png 
+Link      : https://rezka.ag/cartoons/fiction/35350-udivitelnye-mify-i-legendy-1999.html 
+
+            cartoons | page_1 | 18/36 
+Title     : Пёсик! 
+Age       : 2017 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/19/ja6382eeaddf6ja13s67e.png 
+Link      : https://rezka.ag/cartoons/comedy/35352-pesik-2017.html 
+
+            cartoons | page_1 | 19/36 
+Title     : Мы обычные медведи: Фильм 
+Age       : 2020 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/17/c63c1b4a94dd0if98m91v.png 
+Link      : https://rezka.ag/cartoons/adventures/35349-my-obychnye-medvedi-film-2020.html 
+
+            cartoons | page_1 | 20/36 
+Title     : Бунюэль в лабиринте черепах 
+Age       : 2018 
+Country   : Испания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/15/td7a4834c5888ob33t36f.png 
+Link      : https://rezka.ag/cartoons/drama/35326-bunyuel-v-labirinte-cherepah-2018.html 
+
+            cartoons | page_1 | 21/36 
+Title     : Неустрашимый 
+Age       : 2020 
+Country   : Канада 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/15/vfa2d0a3b741ezk19c21a.png 
+Link      : https://rezka.ag/cartoons/adventures/35321-neustrashimyy-2020.html 
+
+            cartoons | page_1 | 22/36 
+Title     : Ласточки Кабула 
+Age       : 2019 
+Country   : Франция 
+Genre     : Драмы 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/15/cfa7d48e4545cfa17i38b.png 
+Link      : https://rezka.ag/cartoons/drama/35313-lastochki-kabula-2019.html 
+
+            cartoons | page_1 | 23/36 
+Title     : Звёздный путь: Нижние палубы 
+Age       : 2020-... 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/14/i1245b68dc1d2vn80t79r.png 
+Link      : https://rezka.ag/cartoons/fiction/35056-zvezdnyy-put-nizhnie-paluby-2020.html 
+
+            cartoons | page_1 | 24/36 
+Title     : Волшебники: Истории Аркадии 
+Age       : 2020-... 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/5/h1e31f490876acb22u34a.png 
+Link      : https://rezka.ag/cartoons/adventures/35142-volshebniki-istorii-arkadii-2020.html 
+
+            cartoons | page_1 | 25/36 
+Title     : Мама назвала меня Шерифом 
+Age       : 2019 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/4/kd7c3ae35fffcfg99h37v.png 
+Link      : https://rezka.ag/cartoons/comedy/35256-mama-nazvala-menya-sherifom-2019.html 
+
+            cartoons | page_1 | 26/36 
+Title     : Зов джунглей 
+Age       : 2020 
+Country   : Маврикий 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/3/z15ffd2acca52dd61g91o.png 
+Link      : https://rezka.ag/cartoons/adventures/34816-zov-dzhungley-2020.html 
+
+            cartoons | page_1 | 27/36 
+Title     : Макс Грин и инопланетяне 
+Age       : 2015-... 
+Country   : Испания 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/8/3/nf8ee10ca3697bu15s23y.png 
+Link      : https://rezka.ag/cartoons/adventures/35247-maks-grin-i-inoplanetyane-2015.html 
+
+            cartoons | page_1 | 28/36 
+Title     : Достаточно близко 
+Age       : 2020-... 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/7/s87d5254bbbf3ey83h78t.png 
+Link      : https://rezka.ag/cartoons/comedy/34977-dostatochno-blizko-2020.html 
+
+            cartoons | page_1 | 29/36 
+Title     : Трансформеры: Война за Кибертрон 
+Age       : 2020-... 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/28/t4adf99ccebefus61p98u.png 
+Link      : https://rezka.ag/cartoons/fiction/35177-transformery-voyna-za-kibertron-2020.html 
+
+            cartoons | page_1 | 30/36 
+Title     : Ко-ко-ко! 
+Age       : 2019 
+Country   : Испания 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/30/b5b78ced307b2pb15u67g.png 
+Link      : https://rezka.ag/cartoons/adventures/35193-ko-ko-ko-2019.html 
+
+            cartoons | page_1 | 31/36 
+Title     : Гномы в деле! 
+Age       : 2020 
+Country   : Германия 
+Genre     : Фэнтези 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/23/x0dd009a94eceam51f32e.png 
+Link      : https://rezka.ag/cartoons/fantasy/35112-gnomy-v-dele-2020.html 
+
+            cartoons | page_1 | 32/36 
+Title     : LEGO Мир юрского периода: Легенда острова Нублар 
+Age       : 2019-... 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/16/jf50f7047f8balm20f30m.png 
+Link      : https://rezka.ag/cartoons/adventures/35066-lego-mir-yurskogo-perioda-legenda-ostrova-nublar-2019.html 
+
+            cartoons | page_1 | 33/36 
+Title     : Король Артур и рыцари без страха и упрека 
+Age       : 1992-1993 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/16/sc5c7bbe183ebht25z89m.png 
+Link      : https://rezka.ag/cartoons/adventures/35064-korol-artur-i-rycari-bez-straha-i-upreka-1992.html 
+
+            cartoons | page_1 | 34/36 
+Title     : Последние дети на Земле 
+Age       : 2019-... 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/12/ib8d539413c25wa99i54b.png 
+Link      : https://rezka.ag/cartoons/adventures/35044-poslednie-deti-na-zemle-2019.html 
+
+            cartoons | page_1 | 35/36 
+Title     : Огонек-Огниво 
+Age       : 2020 
+Country   : Россия 
+Genre     : Фэнтези 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/9/q9c656d3633bczn72s19w.png 
+Link      : https://rezka.ag/cartoons/fantasy/35009-ogonek-ognivo-2020.html 
+
+            cartoons | page_1 | 36/36 
+Title     : Бен 10 
+Age       : 2016-... 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/cartoons/page/1/i/2020/7/8/w08f144bcacc4rk71i75m.png 
+Link      : https://rezka.ag/cartoons/fiction/34993-ben-10-2016.html 
+
+            cartoons | page_2 | 1/36 
+Title     : Мой маленький пони: Лучший подарок на свете 
+Age       : 2018 
+Country   : США 
+Genre     : Фэнтези 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/7/8/vd981e5d82799no39r45e.png 
+Link      : https://rezka.ag/cartoons/fantasy/34990-moy-malenkiy-poni-luchshiy-podarok-na-svete-2018.html 
+
+            cartoons | page_2 | 2/36 
+Title     : Червяк из будущего 
+Age       : 2015-... 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/7/4/e693168755edbri29w68k.png 
+Link      : https://rezka.ag/cartoons/comedy/34965-chervyak-iz-buduschego-2015.html 
+
+            cartoons | page_2 | 3/36 
+Title     : Время приключений: Далёкие земли 
+Age       : 2020-... 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/6/24/kebd7ec612454nn19s57c.png 
+Link      : https://rezka.ag/cartoons/fiction/34867-vremya-priklyucheniy-dalekie-zemli-2020.html 
+
+            cartoons | page_2 | 4/36 
+Title     : Скуби-Ду! Призрачные Голы 
+Age       : 2014 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/6/29/aa1f47d46d937le45k54a.png 
+Link      : https://rezka.ag/cartoons/adventures/34904-skubi-du-prizrachnye-goly-2014.html 
+
+            cartoons | page_2 | 5/36 
+Title     : Герой СамСам 
+Age       : 2019 
+Country   : Франция 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/6/27/z6f3ceb819fa1jh82g68x.png 
+Link      : https://rezka.ag/cartoons/adventures/34893-geroy-samsam-2019.html 
+
+            cartoons | page_2 | 6/36 
+Title     : Клара и волшебный дракон 
+Age       : 2019 
+Country   : Украина 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/2/21/o12588dc05614qq17k39l.png 
+Link      : https://rezka.ag/cartoons/adventures/32422-klara-i-volshebnyy-drakon-2019.html 
+
+            cartoons | page_2 | 7/36 
+Title     : Пушистые мошенники 
+Age       : 2019 
+Country   : Германия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/6/17/iab102bc72708gy46t13f.png 
+Link      : https://rezka.ag/cartoons/adventures/34814-pushistye-moshenniki-2019.html 
+
+            cartoons | page_2 | 8/36 
+Title     : Скрестив мечи 
+Age       : 2020-... 
+Country   : Комедии 
+Genre     : undefined 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/6/11/x5c6a15a3b396ph12j39t.png 
+Link      : https://rezka.ag/cartoons/comedy/34750-skrestiv-mechi-2020.html 
+
+            cartoons | page_2 | 9/36 
+Title     : Вокруг света с Вилли Фогом 
+Age       : 1983 
+Country   : Испания 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/6/13/tfb9dc41d8ca5jt71s18y.png 
+Link      : https://rezka.ag/cartoons/adventures/34768-vokrug-sveta-s-villi-fogom-1983.html 
+
+            cartoons | page_2 | 10/36 
+Title     : Мой маленький пони: Девочки из Эквестрии – Весенние каникулы 
+Age       : 2019 
+Country   : США 
+Genre     : Фэнтези 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/6/3/x184d302a21deeq21m63x.png 
+Link      : https://rezka.ag/cartoons/fantasy/34682-moy-malenkiy-poni-devochki-iz-ekvestrii-vesennie-kanikuly-2019.html 
+
+            cartoons | page_2 | 11/36 
+Title     : Месть яйца 
+Age       : 2014 
+Country   : Венгрия 
+Genre     : Боевики 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/6/1/gf7e03ffaf4bbcz28c25q.png 
+Link      : https://rezka.ag/cartoons/action/34651-mest-yayca-2014.html 
+
+            cartoons | page_2 | 12/36 
+Title     : Центральный парк 
+Age       : 2020-... 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/6/1/m245f81952439vg96i47x.png 
+Link      : https://rezka.ag/cartoons/comedy/34646-centralnyy-park-2020.html 
+
+            cartoons | page_2 | 13/36 
+Title     : Пиноккио 3000 
+Age       : 2004 
+Country   : Канада 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/30/tbf4df57fab1ecl21y94b.jpeg 
+Link      : https://rezka.ag/cartoons/fiction/34636-pinokkio-3000-2004.html 
+
+            cartoons | page_2 | 14/36 
+Title     : Нико и Меч Света 
+Age       : 2015 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/28/qa0b6b27b1456eo36l23j.png 
+Link      : https://rezka.ag/cartoons/adventures/34621-niko-i-mech-sveta-2015.html 
+
+            cartoons | page_2 | 15/36 
+Title     : Конан: Искатель приключений 
+Age       : 1992-1993 
+Country   : США 
+Genre     : Боевики 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/27/da7fa254b4beaod46r14a.png 
+Link      : https://rezka.ag/cartoons/action/34609-konan-iskatel-priklyucheniy-1992.html 
+
+            cartoons | page_2 | 16/36 
+Title     : Витрина DC: Призрачный Незнакомец 
+Age       : 2020 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/25/p974ccd86c2f5cc19f23z.png 
+Link      : https://rezka.ag/cartoons/fiction/34583-vitrina-dc-prizrachnyy-neznakomec-2020.html 
+
+            cartoons | page_2 | 17/36 
+Title     : Барби: Волшебные дельфины 
+Age       : 2017 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/22/s61b2b684dd0fbn96d93y.png 
+Link      : https://rezka.ag/cartoons/adventures/34534-barbi-volshebnye-delfiny-2017.html 
+
+            cartoons | page_2 | 18/36 
+Title     : Кот в сапогах 
+Age       : 1996 
+Country   : Россия 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/22/m9bd813fca6abni58m39k.png 
+Link      : https://rezka.ag/cartoons/comedy/34533-kot-v-sapogah-1996.html 
+
+            cartoons | page_2 | 19/36 
+Title     : Вселенная Стивена: Фильм 
+Age       : 2019 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/2/11/g6580f8f4db29yk24i18p.png 
+Link      : https://rezka.ag/cartoons/adventures/32619-vselennaya-stivena-film-2019.html 
+
+            cartoons | page_2 | 20/36 
+Title     : Скуби-ду 
+Age       : 2020 
+Country   : США 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/13/xe8984326593ekh15y94o.png 
+Link      : https://rezka.ag/cartoons/adventures/34430-skubi-du-2020.html 
+
+            cartoons | page_2 | 21/36 
+Title     : Смешарики. Новый сезон 
+Age       : 2020-... 
+Country   : Россия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/20/xf475776d9e59vb88q30q.png 
+Link      : https://rezka.ag/cartoons/adventures/34513-smeshariki-novyy-sezon-2020.html 
+
+            cartoons | page_2 | 22/36 
+Title     : Капитан Саблезуб и Волшебный бриллиант 
+Age       : 2019 
+Country   : Норвегия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/3/10/a87b64161f164ws61w10t.png 
+Link      : https://rezka.ag/cartoons/adventures/33678-kapitan-sablezub-i-volshebnyy-brilliant-2019.html 
+
+            cartoons | page_2 | 23/36 
+Title     : Аврил и поддельный мир 
+Age       : 2015 
+Country   : Франция 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/17/q175775db3b0ceg82u81o.png 
+Link      : https://rezka.ag/cartoons/adventures/34461-avril-i-poddelnyy-mir-2015.html 
+
+            cartoons | page_2 | 24/36 
+Title     : Тито и птицы 
+Age       : 2018 
+Country   : Бразилия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/3/24/b6c1aa7f9d9bauc68q91l.png 
+Link      : https://rezka.ag/cartoons/adventures/31786-tito-i-pticy-2018.html 
+
+            cartoons | page_2 | 25/36 
+Title     : Тёмная Лига справедливости: Война Апоколипса 
+Age       : 2020 
+Country   : США 
+Genre     : Боевики 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/19/j53d35e81181ers19k20q.png 
+Link      : https://rezka.ag/cartoons/action/34366-temnaya-liga-spravedlivosti-voyna-apokolipsa-2020.html 
+
+            cartoons | page_2 | 26/36 
+Title     : Солнечные противоположности 
+Age       : 2020-... 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/4/4/icb4716f08324pe78r66j.png 
+Link      : https://rezka.ag/cartoons/comedy/33948-solnechnye-protivopolozhnosti-2020.html 
+
+            cartoons | page_2 | 27/36 
+Title     : Киллер Севен / Киллер с ножницами 
+Age       : 2020-... 
+Country   : Китай 
+Genre     : Боевики 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/5/8/g7ba3cc8d04aefr11q17h.png 
+Link      : https://rezka.ag/cartoons/action/34390-killer-seven-2020.html 
+
+            cartoons | page_2 | 28/36 
+Title     : Стражи Арктики 
+Age       : 2019 
+Country   : Индия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/2/8/t64de7b88e035ei50z67u.png 
+Link      : https://rezka.ag/cartoons/adventures/32682-strazhi-arktiki-2019.html 
+
+            cartoons | page_2 | 29/36 
+Title     : Тайна Мосли 
+Age       : 2019 
+Country   : НоваяЗеландия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/1/31/w8819ae9d86a6as47h40n.png 
+Link      : https://rezka.ag/cartoons/adventures/32845-tayna-mosli-2019.html 
+
+            cartoons | page_2 | 30/36 
+Title     : Последняя фантазия 
+Age       : 2018 
+Country   : Иран 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/4/29/lcc1d9c52483adr75w96k.png 
+Link      : https://rezka.ag/cartoons/adventures/34272-poslednyaya-fantaziya-2018.html 
+
+            cartoons | page_2 | 31/36 
+Title     : Махнем на Луну! 
+Age       : 2017 
+Country   : Перу 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/4/27/f647772b92393ki26p70i.png 
+Link      : https://rezka.ag/cartoons/adventures/34243-mahnem-na-lunu-2017.html 
+
+            cartoons | page_2 | 32/36 
+Title     : Полуночное Евангелие / Полуночная проповедь 
+Age       : 2020-... 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/4/23/b740904242544sn83y18e.png 
+Link      : https://rezka.ag/cartoons/comedy/34192-polunochnoe-evangelie-2020.html 
+
+            cartoons | page_2 | 33/36 
+Title     : Семья Уиллоби 
+Age       : 2020 
+Country   : Канада 
+Genre     : Комедии 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/4/21/j60221137624fti12z13m.png 
+Link      : https://rezka.ag/cartoons/comedy/34190-semya-uillobi-2020.html 
+
+            cartoons | page_2 | 34/36 
+Title     : Красные туфельки и семь гномов 
+Age       : 2019 
+Country   : КореяЮжная 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/1/19/n215180719ed6fa70b18u.png 
+Link      : https://rezka.ag/cartoons/adventures/33101-krasnye-tufelki-i-sem-gnomov-2019.html 
+
+            cartoons | page_2 | 35/36 
+Title     : Петтсон и Финдус 
+Age       : 1999 
+Country   : Германия 
+Genre     : Приключения 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/4/22/h40690555ad17of52k70j.png 
+Link      : https://rezka.ag/cartoons/adventures/34187-pettson-i-findus-1999.html 
+
+            cartoons | page_2 | 36/36 
+Title     : Легенды «Смертельной битвы»: Месть Скорпиона 
+Age       : 2020 
+Country   : США 
+Genre     : Боевики 
+Logo      : https://rezka.ag/cartoons/page/2/i/2020/4/16/c5d1e77857165xw55g48r.png 
+Link      : https://rezka.ag/cartoons/action/34118-legendy-smertelnoy-bitvy-mest-skorpiona-2020.html 
 
