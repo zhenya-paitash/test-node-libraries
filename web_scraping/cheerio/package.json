@@ -1,0 +1,16 @@
+{
+  "name": "web_scraping__cheerio",
+  "version": "1.0.0",
+  "description": "fetch data from https://rezka.ag/",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}

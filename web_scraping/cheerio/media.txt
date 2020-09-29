@@ -1,0 +1,288 @@
+            ### 1 
+Title     : Правило Коми 
+Age       : 2020-... 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/8/25/xf32793dff767rk90a44p.png 
+Link      : https://rezka.ag/series/drama/35439-pravilo-komi-2020.html 
+
+            ### 2 
+Title     : Розмари и Тайм 
+Age       : 2003-2006 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/29/y121f15ecfd8chq21h19l.png 
+Link      : https://rezka.ag/series/drama/35836-rozmari-i-taym-2003.html 
+
+            ### 3 
+Title     : Гвен Джонс — ученица Мерлина 
+Age       : 2002 
+Country   : Австралия 
+Genre     : Фэнтези 
+Logo      : https://rezka.ag/i/2020/9/29/t5a0e0e670a90ai33s61d.png 
+Link      : https://rezka.ag/series/fantasy/35835-gven-dzhons-uchenica-merlina-2002.html 
+
+            ### 4 
+Title     : Карлсон вернулся 
+Age       : 1970 
+Country   : СССР 
+Genre     : Комедии 
+Logo      : https://rezka.ag/i/2020/9/29/n35ec34a96496tm41d78b.png 
+Link      : https://rezka.ag/cartoons/comedy/35834-karlson-vernulsya-1970.html 
+
+            ### 5 
+Title     : Доктор Вера 
+Age       : 2020 
+Country   : Украина 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/i/2020/9/29/r305bb2d9743bvp35r72b.png 
+Link      : https://rezka.ag/series/melodrama/35833-doktor-vera-2020.html 
+
+            ### 6 
+Title     : Миссия 
+Age       : 1999 
+Country   : Гонконг 
+Genre     : Боевики 
+Logo      : https://rezka.ag/i/2020/9/29/u4c7a38710bb9bn52l35c.png 
+Link      : https://rezka.ag/films/action/35832-missiya-1999.html 
+
+            ### 7 
+Title     : Бегство Логана 
+Age       : 1977-1978 
+Country   : США 
+Genre     : Фантастика 
+Logo      : https://rezka.ag/i/2020/9/29/y0d81fc59a2b6sc59t36q.png 
+Link      : https://rezka.ag/series/fiction/35831-begstvo-logana-1977.html 
+
+            ### 8 
+Title     : Джордж Карлин: Что я делаю в Нью-Джерси? 
+Age       : 1988 
+Country   : США 
+Genre     : Юмористические 
+Logo      : https://rezka.ag/i/2020/9/29/pfaf448a32d29rc35g18e.png 
+Link      : https://rezka.ag/show/humor/35830-dzhordzh-karlin-chto-ya-delayu-v-nyu-dzhersi-1988.html 
+
+            ### 9 
+Title     : Август 
+Age       : 1996 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/29/b998f8693b955dh15z36m.png 
+Link      : https://rezka.ag/films/drama/35829-avgust-1996.html 
+
+            ### 10 
+Title     : Вживую: Джордж Карлин в Фениксе 
+Age       : 1978 
+Country   : США 
+Genre     : Юмористические 
+Logo      : https://rezka.ag/i/2020/9/29/w09494844b493pu48e47b.png 
+Link      : https://rezka.ag/show/humor/35828-vzhivuyu-dzhordzh-karlin-v-fenikse-1978.html 
+
+            ### 11 
+Title     : Заря 
+Age       : 1988 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/28/a347d601bc5ffqb36w63p.jpg 
+Link      : https://rezka.ag/films/drama/35827-zarya-1988.html 
+
+            ### 12 
+Title     : Карлин в Карнеги-холле 
+Age       : 1982 
+Country   : США 
+Genre     : Юмористические 
+Logo      : https://rezka.ag/i/2020/9/28/nbb71a724b630sy51d45b.png 
+Link      : https://rezka.ag/show/humor/35825-karlin-v-karnegi-holle-1982.html 
+
+            ### 13 
+Title     : Флот МакХейла присоединяется к Военно-воздушным силам 
+Age       : 1965 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/i/2020/9/28/fa2cc4a60fa6cis70f22e.png 
+Link      : https://rezka.ag/films/comedy/35824-flot-makheyla-prisoedinyaetsya-k-voenno-vozdushnym-silam-1965.html 
+
+            ### 14 
+Title     : Джордж Карлин: Карлин в Кампусе 
+Age       : 1984 
+Country   : США 
+Genre     : Юмористические 
+Logo      : https://rezka.ag/i/2020/9/28/ka218896efddfut52u75e.png 
+Link      : https://rezka.ag/show/humor/35822-dzhordzh-karlin-karlin-v-kampuse-1984.html 
+
+            ### 15 
+Title     : Ты только мой 
+Age       : 2020 
+Country   : Украина 
+Genre     : Мелодрамы 
+Logo      : https://rezka.ag/i/2020/9/28/s760030faed86zu53m43d.png 
+Link      : https://rezka.ag/series/melodrama/35821-ty-tolko-moy-2020.html 
+
+            ### 16 
+Title     : Вживую: Джордж Карлин в УЮК 
+Age       : 1977 
+Country   : США 
+Genre     : Юмористические 
+Logo      : https://rezka.ag/i/2020/9/28/b59fcfbbbcb78qt58d26g.png 
+Link      : https://rezka.ag/show/humor/35820-vzhivuyu-dzhordzh-karlin-v-uyuk-1977.html 
+
+            ### 17 
+Title     : Консольные войны 
+Age       : 2020 
+Country   : США 
+Genre     : Документальные 
+Logo      : https://rezka.ag/i/2020/9/19/d637be470feadyq83m29j.png 
+Link      : https://rezka.ag/films/documentary/35732-konsolnye-voyny-2020.html 
+
+            ### 18 
+Title     : Спутники 
+Age       : 2015 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/28/l93babd3c9f6agm99z71r.png 
+Link      : https://rezka.ag/series/drama/35818-sputniki-2015.html 
+
+            ### 19 
+Title     : Глубокое синее море 3 
+Age       : 2020 
+Country   : США 
+Genre     : Ужасы 
+Logo      : https://rezka.ag/i/2020/9/24/i7f2efed551b0oa94o16v.png 
+Link      : https://rezka.ag/films/horror/35784-glubokoe-sinee-more-3-2020.html 
+
+            ### 20 
+Title     : Сникерхеды 
+Age       : 2020 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/i/2020/9/15/ubc4ef3bb14c4ue48e77j.png 
+Link      : https://rezka.ag/series/comedy/35704-snikerhedy-2020.html 
+
+            ### 21 
+Title     : Вот как я тебя люблю 
+Age       : 2020-... 
+Country   : Канада 
+Genre     : Комедии 
+Logo      : https://rezka.ag/i/2020/9/27/ke4ccff35208aaz61m55y.png 
+Link      : https://rezka.ag/series/comedy/35811-vot-kak-ya-tebya-lyublyu-2020.html 
+
+            ### 22 
+Title     : Смотри как я 
+Age       : 2020 
+Country   : Россия 
+Genre     : Комедии 
+Logo      : https://rezka.ag/i/2020/7/14/r12297906dbd8hn40c59k.png 
+Link      : https://rezka.ag/films/comedy/35057-smotri-kak-ya-2020.html 
+
+            ### 23 
+Title     : Шифр 2 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/24/qc2902ac72f87gt13k57t.png 
+Link      : https://rezka.ag/series/drama/35786-shifr-2-2020.html 
+
+            ### 24 
+Title     : Свои 3 
+Age       : 2020 
+Country   : Россия 
+Genre     : Детективы 
+Logo      : https://rezka.ag/i/2020/9/8/u7a217fdd03b4gf71g78w.png 
+Link      : https://rezka.ag/series/detective/35620-svoi-3-2020.html 
+
+            ### 25 
+Title     : Сибил 
+Age       : 1976 
+Country   : США 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/27/p9191a8796ee6gi61l74k.png 
+Link      : https://rezka.ag/films/drama/35810-sibil-1976.html 
+
+            ### 26 
+Title     : Керель 
+Age       : 1982 
+Country   : Германия(ФРГ) 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/27/mdfcdecee0b5csx85w29v.png 
+Link      : https://rezka.ag/films/drama/35809-kerel-1982.html 
+
+            ### 27 
+Title     : Заговор против Гитлера 
+Age       : 1990 
+Country   : Югославия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/27/e705afa1c1ea0oh33m65k.png 
+Link      : https://rezka.ag/films/drama/35808-zagovor-protiv-gitlera-1990.html 
+
+            ### 28 
+Title     : Старшеклассницы 
+Age       : 2006 
+Country   : Япония 
+Genre     : Комедии 
+Logo      : https://rezka.ag/i/2020/9/27/ebc948dce24c4sf10c23f.png 
+Link      : https://rezka.ag/animation/comedy/35807-starsheklassnicy-2006.html 
+
+            ### 29 
+Title     : Горбун из Нотр-Дама 
+Age       : 1982 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/27/m99a60ebeb1f7nw86v84m.png 
+Link      : https://rezka.ag/films/drama/35805-gorbun-iz-notr-dama-1982.html 
+
+            ### 30 
+Title     : Германия 89 
+Age       : 2020 
+Country   : Германия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/12/z9e6d79d70c2fxn67l88o.png 
+Link      : https://rezka.ag/series/drama/35664-germaniya-89-2020.html 
+
+            ### 31 
+Title     : Муссолини и я 
+Age       : 1985 
+Country   : Италия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/26/z1442768add18qi78y67u.png 
+Link      : https://rezka.ag/series/drama/35804-mussolini-i-ya-1985.html 
+
+            ### 32 
+Title     : Кукольный дом 
+Age       : 1973 
+Country   : Великобритания 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/26/ff9cd4875c530mc80o19f.png 
+Link      : https://rezka.ag/films/drama/35803-kukolnyy-dom-1973.html 
+
+            ### 33 
+Title     : Короткие встречи 
+Age       : 1967 
+Country   : СССР 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/26/a2404c013128efp78i59l.png 
+Link      : https://rezka.ag/films/drama/35802-korotkie-vstrechi-1967.html 
+
+            ### 34 
+Title     : Старые дела 
+Age       : 2006 
+Country   : Россия 
+Genre     : Криминал 
+Logo      : https://rezka.ag/i/2020/9/26/ja3c94506b3bfuh39a19l.png 
+Link      : https://rezka.ag/series/crime/35801-starye-dela-2006.html 
+
+            ### 35 
+Title     : Просто представь, что мы знаем 
+Age       : 2020 
+Country   : Россия 
+Genre     : Драмы 
+Logo      : https://rezka.ag/i/2020/9/4/bb317d66f4a2dhc80h96p.png 
+Link      : https://rezka.ag/series/drama/35553-prosto-predstav-chto-my-znaem-2020.html 
+
+            ### 36 
+Title     : Флот МакХэйла 
+Age       : 1964 
+Country   : США 
+Genre     : Комедии 
+Logo      : https://rezka.ag/i/2020/9/26/k96121290662bum92f90u.png 
+Link      : https://rezka.ag/films/comedy/35800-flot-makheyla-1964.html 
+
