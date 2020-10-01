@@ -10,6 +10,22 @@ readFile('data.json');
 const lyrics = fs.readFileSync('lyrics.txt').toString();
 console.log(color.FgYellow, lyrics);
 
+// fs.mkdir('./delete_me', e => {
+//   if (e && e.code === 'EEXIST') console.log(color.BgRed, e)
+//   else console.log(color.FgGreen, 'Folder Created!');
+// });
+
+// fs.rmdir('./delete_me', e => {
+//   if (e) console.log(color.BgRed, e)
+//   else console.log(color.FgGreen, 'Folder Removed!');
+// });
+
+fs.readdir('.', (err, files) => {
+  files.forEach(file => console.log(color.FgGreen, path.join(__dirname, file)));
+});
+
+
+
 function readFile(file) {
   fs.readFile(file, (err, data) => {
     if (err) throw err;
@@ -25,7 +41,7 @@ function readFile(file) {
         console.log(color.FgRed, json);
         break;
       default: 
-        console.log('Check extname file');
+        console.log(color.BgRed, 'Check extname file');
     }
   });
 }
