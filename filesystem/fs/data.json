@@ -1,0 +1,44 @@
+{
+  "_id": "5f75d9bfd10d6940d88ed510",
+  "guid": "45a44b5c-9158-4b1f-b322-3c8552c32209",
+  "isActive": true,
+  "balance": "$2,065.54",
+  "picture": "http://placehold.it/32x32",
+  "age": 37,
+  "eyeColor": "green",
+  "name": "Rose Mccray",
+  "gender": "male",
+  "company": "XUMONK",
+  "email": "rosemccray@xumonk.com",
+  "phone": "+1 (966) 449-2707",
+  "address": "408 Perry Terrace, Albany, Florida, 6932",
+  "about": "Labore adipisicing aliqua tempor mollit velit voluptate Lorem do est est pariatur cillum tempor officia. Elit proident fugiat nulla dolor velit commodo aliqua magna ullamco eiusmod sint dolor proident aliquip. Eu laboris dolore et duis nisi culpa ut incididunt in dolore ex fugiat incididunt elit.\r\n",
+  "registered": "2019-03-08T09:44:35 -03:00",
+  "latitude": -57.072222,
+  "longitude": 134.032182,
+  "tags": [
+    "nisi",
+    "aute",
+    "fugiat",
+    "deserunt",
+    "ea",
+    "proident",
+    "irure"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Jenifer Albert"
+    },
+    {
+      "id": 1,
+      "name": "Cantu Lyons"
+    },
+    {
+      "id": 2,
+      "name": "Cheri Cooley"
+    }
+  ],
+  "greeting": "Hello, Rose Mccray! You have 2 unread messages.",
+  "favoriteFruit": "banana"
+}
