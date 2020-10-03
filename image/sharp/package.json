@@ -9,6 +9,7 @@
   "author": "zhenya-paitash",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.20.0",
     "sharp": "^0.26.1"
   }
 }
