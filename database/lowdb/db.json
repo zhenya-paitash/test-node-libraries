@@ -1,0 +1,32 @@
+{
+  "scriptRun": 3,
+  "user": {
+    "name": "zhenya paitash",
+    "age": 27,
+    "languages": [
+      "html",
+      "css",
+      "javascript",
+      "python"
+    ],
+    "github": "github.com/zhenya-paitash"
+  },
+  "messages": [
+    {
+      "id": 1,
+      "text": "My first msg."
+    },
+    {
+      "id": 2,
+      "text": "Custom message № 2"
+    },
+    {
+      "id": 3,
+      "text": "Custom message № 3"
+    },
+    {
+      "id": 4,
+      "text": "Custom message № 4"
+    }
+  ]
+}
