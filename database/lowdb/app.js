@@ -23,7 +23,7 @@ db.update('scriptRun', i => ++i).write();
 // console.log(db.has('user').value());
 // console.log(db.get('messages').map('text').value());
 
-// const msgNumber = db.get('messages').value().length + 1;
-// db.get('messages').push({ id: msgNumber, text: `Custom message № ${msgNumber}` }).write();
+const msgNumber = db.get('messages').value().length + 1;
+db.get('messages').push({ id: msgNumber, text: `Custom message № ${msgNumber}` }).write();
 
 console.log(db.getState());
