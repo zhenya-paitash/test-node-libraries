@@ -1,0 +1,14 @@
+{
+  "name": "archiver-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.0.2"
+  }
+}
