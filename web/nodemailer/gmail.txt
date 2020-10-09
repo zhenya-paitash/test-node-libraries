@@ -1,0 +1,18 @@
+~~ для использования почты GMAIL для рассылки ~~
+
+1. OPEN: gmail.com => настройки => аккаунты и импорт => "Отправлять письма как:" copy adress.
+2. auth: { ...auth, user: *вставить* }
+3. from '... <*вставить*>'
+4. password
+
+5. OPEN: ... => пересылка и POP/IMAP => доступ оп протоколу POP 3.Инструкции по настройке => 
+  Сервер исходящей почты (SMTP) => copy adress.
+6. host: '*вставить*'
+7. port: copypast
+8. secure: false // if not 465
+
+9. Дать доступ к почтовому аккаунту сторонним приложениям => 
+  https://nodemailer.com/usage/using-gmail/ -> ИНФО
+  https://myaccount.google.com/lesssecureapps?pli=1  -> ДОСТУП
+10. Разрешить подключаться без ввода капчи =>
+  https://accounts.google.com/b/0/displayunlockcaptcha -> РАЗРЕШИТЬ 
