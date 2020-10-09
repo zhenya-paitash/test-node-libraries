@@ -10,6 +10,7 @@ const transporter = nodemailer.createTransport(
     //   user: 'alena23@ethereal.email',
     //   pass: 'ACuN3mE42CsPQ4NsB5',
     // },
+
     host: 'smtp.gmail.com',
     port: 587,
     secure: false, // true for 465, false for other ports
@@ -19,12 +20,12 @@ const transporter = nodemailer.createTransport(
     },
   },
   {
-    from: 'Nodemailer Test <nodemailerzp@gmail.com>',
+    from: 'NODEMAILER <nodemailerzp@gmail.com>',
   }
 );
 
-const mailer = (msg) => {
-  transporter.sendMail(msg, (err, indo) => {
+const mailer = msg => {
+  transporter.sendMail(msg, (err, info) => {
     if (err) return console.log(err);
     console.log(info);
   });

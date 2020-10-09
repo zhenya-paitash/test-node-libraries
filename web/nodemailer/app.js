@@ -4,7 +4,7 @@ const parser = require('body-parser');
 const methods = require('method-override');
 
 const mailer = require('./nodemailer');
-let USER = undefined;
+let USER;
 
 app.set('view engine', 'ejs');
 app.set('views', __dirname + '/views');
@@ -14,9 +14,9 @@ app.use(methods('_method'));
 
 
 app.get('/', (req, res) => {
-  if (typeof USER === 'undefined') return res.render('index');
+  if (!USER) return res.render('index');
   res.status(201).send('Регистрация прошла успешно! Данные отправлены на указанный email: ' + USER.email);
-  USER = undefined;
+  USER = null;
 });
 
 app.post('/registration', (req, res) => {
@@ -26,21 +26,21 @@ app.post('/registration', (req, res) => {
   mailer({
     // from: 'Nodemailer Test <alena23@ethereal.email>',  // для удобства лучше перенести в транспортер по умолчанию
     to: USER.email,
-    subject: 'NODEMAILER',
-    text: `
-      Nodemailer work!
-
-      Data from form: 
-      > login : ${USER.email}
-      > password: ${USER.password}
+    subject: 'NODEMAILER TEST SEND',
+    html: `
+      <h1>Nodemailer work!</h1>
+      <hr/>
+      <i>SEND DATA: </i>
+      <ul>
+        <li>email: ${USER.email} </li>
+        <li>message: ${USER.message} </li>
+      </ul> 
     `
   });
 
   res.redirect('/');
 });
 
-// asdasdas
-// dasdasdasd
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log("\x1b[34m%s\x1b[0m", 'Start Server: http://localhost:' + PORT));
