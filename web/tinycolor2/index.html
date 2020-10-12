@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TinyColor</title>
+  <style>
+    *{padding:0;margin:0;}
+    img{height:100vh;width:100%;z-index: 1;}
+    h5{z-index:2;color:white;position:fixed;top:20px;left:20px;}
+    .color{position:absolute;left:0;top:0;width:25vw;height:100vh;opacity:0.15}
+    .one{background-color:yellow;margin-left:0vw;}
+    .two{background-color:hsl(143, 69%, 45%);margin-left:25vw;}
+    .three{background-color:rgb(42, 174, 226);margin-left:50vw;}
+    .four{background-color:#4f11c2;margin-left:75vw;}    
+  </style>
+</head>
+
+<body>
+  <img src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1691&q=80" alt="mountain">
+  <div class="color one"></div>
+  <div class="color two"></div>
+  <div class="color three"></div>
+  <div class="color four"></div>
+
+
+  <script type="module" src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.4.2/tinycolor.min.js"></script>
+  <script>
+    document.body.innerHTML += '<h5>#undefined</h5>';
+    const br = '<br/>'
+    const text = document.querySelector('h5');
+
+    document.addEventListener('click', (e) => {
+      const color = tinycolor(getComputedStyle(e.target).backgroundColor);
+      console.log(color);
+      text.innerHTML = 
+        'TinyColor information:' + br +
+        br + 'getFormat: ' +      color.getFormat() +
+        br + 'toName: ' +         color.toName() +
+        br + 'analogous: ' +      color.analogous() +
+        br + 'getAlpha: ' +       color.getAlpha() +
+        br + 'toHexString: ' +    color.toHexString() +
+        br + 'toHslString: ' +    color.toHslString() +
+        br + 'toRgbString: ' +    color.toRgbString() +
+        br + 'tetrad: ' +         color.tetrad() + 
+        br + 'toFilter: ' +       color.toFilter() +
+        br + 'lighten: ' +        color.lighten() +
+        br + 'isDark: ' +         color.isDark() +
+        br + 'monochromatic: ' +  color.monochromatic();
+    });
+  </script>
+</body>
+</html>
