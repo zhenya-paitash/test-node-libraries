@@ -1,0 +1,14 @@
+{
+  "name": "lqip-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "lqip": "^2.1.0"
+  }
+}
