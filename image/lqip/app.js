@@ -15,7 +15,6 @@ const lqip = require('lqip');
 // Palette
 lqip.palette(__dirname + '/img/1.jpg')
   .then(res => {
-    console.log(res);
     fs.writeFileSync('colors.html', `
       <!DOCTYPE html>
       <html lang="en">
@@ -23,16 +22,16 @@ lqip.palette(__dirname + '/img/1.jpg')
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Colors From Image</title>
-        <style>.color{width: 100px;height: 100px;}</style>
+        <style>
+          .color{width:100px;height:100px;float:left;}
+          img{position:absolute;right:0;bottom:0;}
+        </style>
       </head>
       <body>
-        <div class="color" style="background-color: ${res[0]};">${res[0]}</div>
-        <div class="color" style="background-color: ${res[1]};">${res[1]}</div>
-        <div class="color" style="background-color: ${res[2]};">${res[2]}</div>
-        <div class="color" style="background-color: ${res[3]};">${res[3]}</div>
-        <div class="color" style="background-color: ${res[4]};">${res[4]}</div>
-        <div class="color" style="background-color: ${res[5]};">${res[5]}</div>
-
+        ${res
+          .map(i => `<div class="color" style="background-color: ${i};">${i}</div>`)
+          .join('\n')
+        }
         <img src="img/1.jpg">
       </body>
       </html>
