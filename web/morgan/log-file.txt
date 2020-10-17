@@ -1,0 +1,7 @@
+server started...
+[0mGET / [32m200[0m 4.036 ms - 705[0m
+[0mGET /favicon.ico [32m200[0m 1.688 ms - 623[0m
+[0mGET /hello [32m200[0m 1.681 ms - 733[0m
+[0mGET /favicon.ico [32m200[0m 0.904 ms - 637[0m
+[0mGET /morgan [32m200[0m 1.273 ms - 733[0m
+[0mGET /favicon.ico [32m200[0m 0.398 ms - 638[0m
