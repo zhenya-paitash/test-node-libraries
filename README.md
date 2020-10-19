@@ -5,8 +5,8 @@ Node.js libraries
 Tree
 ---
     ├─ database/
-    │  ├─ uuid/
-    │  └─ lowdb/
+    │  ├─ lowdb/
+    │  └─ uuid/
     ├─ filesystem/
     │  ├─ archiver/
     │  ├─ child_process/
