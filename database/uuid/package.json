@@ -1,0 +1,14 @@
+{
+  "name": "uuid-rfc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  }
+}
