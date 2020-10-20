@@ -1,0 +1,14 @@
+{
+  "name": "faker-fakedata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.1.0"
+  }
+}
