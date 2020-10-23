@@ -47,7 +47,7 @@ Libraries
 package                                   | description | link
 :-----------------------------------------|:------------|---:
 **DATABASE**                              |
-[bcrypt](database/bcrypt)                 | `Библиотека хэширования паролей.` | [npm](https://www.npmjs.com/package/bcrypt) [github](https://github.com/kelektiv/node.bcrypt.js)
+[bcrypt](database/bcrypt)                 | `Библиотека хэширования паролей.` | [![npm](https://img.icons8.com/color/24/000000/npm.png "npm")](https://www.npmjs.com/package/bcrypt) [![github](https://img.icons8.com/ios-filled/24/000000/github.png "github")](https://github.com/kelektiv/node.bcrypt.js)
 [faker](database/faker)                   | `Модуль для генерирации поддельных данных в node.js/браузере.` | [npm](https://www.npmjs.com/package/faker) [github](https://github.com/Marak/Faker.js)
 [jsonwebtoken](database/jsonwebtoken)     | `Модуль для работы с JSON Web Token, или просто JWT. Представляет собой строку, полученную на основе формата JSON, и используется в качестве более безопасной и простой альтернативы сессиям и файлам cookie для авторизации.` | [npm](https://www.npmjs.com/package/jsonwebtoken) [github](https://github.com/auth0/node-jsonwebtoken)
 [lowdb](database/lowdb)                   | `Маленькая база данных JSON для Node, Electron и браузера. Работает на Lodash.` | [npm](https://www.npmjs.com/package/lowdb) [github](https://github.com/typicode/lowdb)
@@ -63,9 +63,9 @@ package                                   | description | link
 [os](filesystem/os)                       | `Модуль предоставляет набор операционных системных методов.` | -
 [zlib](filesystem/zlib)                   | `Модуль обеспечивает функциональные возможности сжатия, реализованные с использованием Gzip, Deflate / Inflate и Brotli.` | -
 **HTTP**                                  | 
-[axios](http/axios)                 | `http-клиент на основе promise для браузера и node.js.` | [npm](https://www.npmjs.com/package/axios) [github](https://github.com/axios/axios)
-[http](http/http)                   | `Встроенный node.js модуль для использования сервера и клиента http.` | -
-[request](http/request)             | `Модуль для простого способа совершать http-вызовы. Он поддерживает HTTPS и по умолчанию следует перенаправлениям.` | [npm](https://www.npmjs.com/package/request) [github](https://github.com/request/request)
+[axios](http/axios)                       | `http-клиент на основе promise для браузера и node.js.` | [npm](https://www.npmjs.com/package/axios) [github](https://github.com/axios/axios)
+[http](http/http)                         | `Встроенный node.js модуль для использования сервера и клиента http.` | -
+[request](http/request)                   | `Модуль для простого способа совершать http-вызовы. Он поддерживает HTTPS и по умолчанию следует перенаправлениям.` | [npm](https://www.npmjs.com/package/request) [github](https://github.com/request/request)
 **IMAGE**                                 |
 [imagemin](image/imagemin)                | `Модуль для уменьшения изображений.` | [npm](https://www.npmjs.com/package/imagemin) [github](https://github.com/imagemin/imagemin)
 [jimp](image/jimp)                        | `Библиотека обработки изображений для Node, полностью написанная на JavaScript, без собственных зависимостей.` | [npm](https://www.npmjs.com/package/jimp) [github](https://github.com/oliver-moran/jimp)
@@ -83,4 +83,3 @@ package                                   | description | link
 **WEB SCRAPING**                          |
 [cheerio](web_scraping/cheerio)           | `Парсинг модуль. Быстрая, гибкая и экономичная реализация jQuery для сервера. Cheerio анализирует разметку и предоставляет API для просмотра/управления полученной структурой данных. Он не интерпретирует результат, как это делает веб-браузер. В частности, он не производит визуальную визуализацию, не применяет CSS, не загружает внешние ресурсы и не выполняет JavaScript.` | [npm](https://www.npmjs.com/package/cheerio) [github](https://github.com/cheeriojs/cheerio)
 [puppeteer](web_scraping/puppeteer)       | `Puppeteer - это библиотека Node, которая предоставляет высокоуровневый API для управления Chrome или Chromium по протоколу DevTools. Puppeteer по умолчанию работает без header, но его можно настроить для запуска полного Chrome или Chromium.` | [npm](https://www.npmjs.com/package/puppeteer) [github](https://github.com/puppeteer/puppeteer)
-
