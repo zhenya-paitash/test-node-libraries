@@ -43,10 +43,10 @@ Tree
 
 Libraries
 ---
-package           |description| source
-:-----------------|:----------|:---
+package           | description | source
+:-----------------|:------------|:---
 **DATABASE**      |
-[bcrypt](./database)            | `Библиотека хэширования паролей.`
+[bcrypt](database/bcrypt) | ``Библиотека хэширования паролей.`` | [npm](https://www.npmjs.com/package/bcrypt) [github](https://github.com/kelektiv/node.bcrypt.js)
 faker             | `Модуль для генерирации поддельных данных в node.js/браузере.`
 jsonwebtoken      | `Модуль для работы с JSON Web Token, или просто JWT. Представляет собой строку, полученную на основе формата JSON, и используется в качестве более безопасной и простой альтернативы сессиям и файлам cookie для авторизации.`
 lowdb             | `Маленькая база данных JSON для Node, Electron и браузера. Работает на Lodash.`
