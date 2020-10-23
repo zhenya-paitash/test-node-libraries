@@ -31,6 +31,7 @@ Tree
     │  ├─ sharp/
     │  └─ spritesmith/
     ├─ web/
+    │  ├─ method-override/
     │  ├─ moment/
     │  ├─ morgan/
     │  ├─ nodemailer/
@@ -72,6 +73,7 @@ package                                   | description | link
 [sharp](image/sharp)                      | `Преобразование больших изображений в распространенных форматах в более мелкие, удобные для Интернета изображения JPEG, PNG и WebP различных размеров.`
 [spritesmith](image/imagemin)             | `Модуль преобразования изображений в таблицы спрайтов и координатные карты.`
 **WEB**                                   |
+[method-override](web/method-override)    | `Позволяет использовать HTTP-команды, такие как PUT или DELETE, в местах, где клиент не поддерживает их.` | [npm](https://www.npmjs.com/package/method-override) [github](https://github.com/expressjs/method-override)
 [moment](web/moment)                      | `Библиотека дат JavaScript для анализа, проверки, управления и форматирования дат.`
 [morgan](web/morgan)                      | `Промежуточное ПО регистратора запросов(логов) http для node.js.`
 [nodemailer](web/nodemailer)              | `Модуль для работы с почтой в Node.js.`
