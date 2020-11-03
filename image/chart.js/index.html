@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chart.JS</title>
+  <style>
+    
+  </style>
+</head>
+<body>
+  <div class="container">
+    <canvas id="myChart"></canvas>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+  <script>
+    const chart = new Chart(document.getElementById('myChart').getContext('2d'), {
+        // The type of chart we want to create
+        type: 'line',
+
+        // The data for our dataset
+        data: {
+            labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+            datasets: [{
+                label: 'First data',
+                backgroundColor: 'rgb(255, 99, 132)',
+                borderColor: 'rgb(255, 99, 132)',
+                data: [0, 10, 5, 2, 20, 30, 45],
+                fill: false
+            }, {
+                label: 'Second data',
+                backgroundColor: 'blue',
+                borderColor: 'blue',
+                data: [0, 4, 12, 31, 25, 22, 40],
+                fill: false
+            }]
+        },
+
+        // Configuration options go here
+        options: {
+					responsive: true,
+					title: {
+						display: true,
+						text: 'Test data'
+					},
+					scales: {
+						// xAxes: [{
+						// 	gridLines: gridlines
+						// }],
+						yAxes: [{
+							ticks: {
+								min: 0,
+								max: 100,
+								stepSize: 5
+							}
+						}]
+					}
+				}
+    });
+  </script>
+  
+</body>
+</html>
