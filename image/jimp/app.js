@@ -46,5 +46,21 @@ Jimp.read({
   // Convolute
   img.clone()
     .convolute([[-2, -1, 0], [-1, 1, 1], [0, 1, 2]])
-    .writeAsync('img/edit-shapes.png')
+    .writeAsync('img/edit-shapes.png')  
+    
+  // Text on IMG
+  Jimp.loadFont(Jimp.FONT_SANS_32_WHITE)
+    .then(font => img.clone()
+      .resize(480, img.bitmap.height * (480 / img.bitmap.width))
+      .print(font, 10, 10, {
+        text: 'hello',
+        alignmentX: Jimp.HORIZONTAL_ALIGN_LEFT,
+        alignmentY: Jimp.VERTICAL_ALIGN_MIDDLE
+      }, (err, image, { x,y }) => {
+        !err && image.print(font, 10, y+20, 'from', (err, image, { x,y }) => {
+          !err && image.print(font, 10, y+20, 'JIMP!!!')
+        });
+      })
+      .write('img/font.jpg'))
+    .catch(err => console.error('FONT error: ', err))
 })();
