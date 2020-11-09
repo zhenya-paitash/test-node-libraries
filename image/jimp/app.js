@@ -46,7 +46,7 @@ Jimp.read({
   // Convolute
   img.clone()
     .convolute([[-2, -1, 0], [-1, 1, 1], [0, 1, 2]])
-    .writeAsync('img/edit-shapes.png')  
+    .writeAsync('img/edit-shapes.png');
     
   // Text on IMG
   Jimp.loadFont(Jimp.FONT_SANS_32_WHITE)
@@ -62,5 +62,5 @@ Jimp.read({
         });
       })
       .write('img/font.jpg'))
-    .catch(err => console.error('FONT error: ', err))
+    .catch(err => console.error('FONT error: ', err));
 })();
