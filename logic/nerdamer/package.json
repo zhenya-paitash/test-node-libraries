@@ -1,0 +1,14 @@
+{
+  "name": "nerdamer-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "nerdamer": "^1.1.6"
+  }
+}
