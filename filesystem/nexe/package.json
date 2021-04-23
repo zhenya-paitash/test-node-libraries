@@ -1,0 +1,22 @@
+{
+  "name": "nexe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "help": "nexe -h",
+    "build": "nexe app.js",
+    "build:old": "nexe -t x64-10.16.0"
+  },
+  "keywords": [],
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nexe": "*"
+  }
+}
