@@ -1,0 +1,19 @@
+{
+  "name": "debug-pkg-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "set DEBUG=http & node app.js",
+    "http": "set DEBUG=http & node app.js",
+    "worker:a": "set DEBUG=worker:a & node app.js",
+    "worker:b": "set DEBUG=worker:b & node app.js"
+  },
+  "keywords": [],
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.1"
+  }
+}
