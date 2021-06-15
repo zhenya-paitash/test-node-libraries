@@ -1,0 +1,16 @@
+{
+  "name": "joi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.4.0"
+  }
+}
