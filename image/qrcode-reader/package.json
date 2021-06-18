@@ -1,0 +1,16 @@
+{
+  "name": "qrcode-reader_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "qrcode-reader": "^1.0.4"
+  }
+}
