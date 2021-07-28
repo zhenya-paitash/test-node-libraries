@@ -1,0 +1,14 @@
+{
+  "name": "date-fns_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "zhenya-paitash",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.23.0"
+  }
+}
